@@ -1,0 +1,1880 @@
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (26).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Face-Mask-vs-Surgical-Mask.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000682.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (516).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000525.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (606).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000826.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (369).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/msk_1024.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (494).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000550.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000850.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000406.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e450681b7dad.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (750).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (718).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000404.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000589.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (780).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580571207_88208.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/download-14.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000724.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/edinburgh.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/dfggfsd.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000764.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (704).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000413.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000329.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000257.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1030611863.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (569).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000721.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000327.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3050308_1_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (424).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (139).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1197620896.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (236).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (286).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000061.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (251).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000426.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (476).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000086.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020-02-10t102227z_948473639_rc2mxe9xhk6y_rtrmadp_3_china-health.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/beijing-oct-19-2014-chinese-girls-with-a-face-mask-beijing-raised-JEJXDX.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (760).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (145).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (327).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/NINTCHDBPICT000558929314-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200120000931.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000700.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (230).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (669).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e4505ccf0ccc.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200124000104.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/img-1579662489-42239.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000076.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (495).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000242.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-superJumbo.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/chinese-new-year-corona-virus-january-24-2020-003.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/10fea_8011463765e2aa28b386cf.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (720).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (187).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000003.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200206132610-95105bc6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (127).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (794).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000713.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000503.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000777.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1200x818.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (479).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/616n0004s30pn0046716.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/823c6f248bacf766e04e2d0e3a4fd102.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000181.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (49).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/CHINE-LYCEE-FRANCAIS-PEKIN.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (734).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_1.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/istockphoto-609943198-1024x1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (465).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (374).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (350).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (281).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (535).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000728.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (111).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000479.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000566.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000796.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000228.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000795.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000008.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus-1024x683.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000805.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000290.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000332.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/AP_20039189423521.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/abstrax_art_13120-copy.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000744.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (33).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000603.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000250.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (171).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (614).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/9a9290ce-013c-4792-9fb7-183ef7326ab5e5743997-df54-41f6-b994-d779c59ccb8e_batchwm_batchwm.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000395.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (174).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (702).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (471).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (403).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000683.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000592.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (530).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (438).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000476.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (640).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (235).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (500).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000584.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200123123851-6c35b988.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000509.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (97).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000150.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000425.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/a-asian-man-wear-hygienic-mask-for-protect-pm25-dust-on-white-background-RWW8BW.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (576).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000449.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (815).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (315).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000441.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000390.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000797.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (787).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000310.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (506).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168528063_bf3cc2fc-0dc5-4941-82f2-190567367dd8-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (119).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000090.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/464652.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (636).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000645.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000185.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (752).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/organizacion-preocupacion-potencial-virus-propague.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000842.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000537.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000133.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (764).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000561.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (61).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000823.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000461.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (229).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_3.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-163903704-1024x1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (675).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000330.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (462).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/EPi37iZUYAAsBY5.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000221.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (108).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/so(24) (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000340.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (330).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000417.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (538).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/air_pollution_is_far_more_damaging__dangerous_than_you_think_heres_everything_you_must_know_1540473738.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (110).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/detectan_nuevos_casos_de_neumonia_virica_en_china.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000671.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-china-gty-aa-200130_hpMain_16x9_992.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000303.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (209).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000097.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (298).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus_Shutterstock_China.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (338).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (366).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000292.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (648).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/783be4c62f564a17ab5c260b0488296e.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000144.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (811).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2015-09-28T100613Z_640118265_GF10000225000_RTRMADP_3_SINGAPORE-HAZE.JPG
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000546.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (64).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000405.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1482202839575.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000464.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/-1x-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000111.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000300.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (308).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000558.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (819).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000500.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (144).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (526).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d11adb544ff4a18148366dd92e645cb1.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1152x768_246964803156.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000167.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000392.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (817).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/4673875.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000495.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200127000706.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000792.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (207).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (100).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000307.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000693.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000268.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000096.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000388.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (730).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (102).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/518025850.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/chinese-girl-with-face-mask-yinchuan-ningxia-china-J61449.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200128120023-wuhan-3-super-tease.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000103.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000640.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (814).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (664).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (524).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (395).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/shutterstock_584407723.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200201102936-wuhan-virus-0131-beijing-masks.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (795).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000717.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (329).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (221).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000383.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (416).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/101d6660a8974050b613dd2e6bd59390.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/maxresdefault (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (659).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1553605632_9d5877d8_60.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000172.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/fjfffjj.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (309).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000819.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d3b67fe6-0529-46fd-bd99-75b44439a249.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (247).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200129000063M.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000510.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000595.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (417).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (312).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (744).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000239.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (428).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e45049792adb.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000273.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1_13.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020-01-31t145112z-316030556-mt1yomiur000ajsyux-rtrmadp-3-novel-coronavirus-outbreak-japan-tokyo-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/fsdfsfff.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000365.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (394).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000462.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1581058884-453f88084aecc73cb5b29b1fe6474a56.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (263).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (390).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000771.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/001_1024.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000017.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (739).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200129001040.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_9_0_4_8_24568409-3-eng-GB_RTS2ZDYX_2048x1152.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/p600000671574nq03o9.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (431).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000766.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (547).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000235.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/9557eaa8bad4b2f9615b57473de1d5f6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (356).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200201102625901450.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190928103638886.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000298.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000124.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (185).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (656).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000810.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000042.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1400018548960op29s.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (710).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200129151820_fd638cb7a2000a1096ca3fbdc15a6fa9_1.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000458.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (654).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ca_coronaviruscontagious_012720getty.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000004.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (87).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (686).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/p600000670oq209288n.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1422808187-3291816118.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ST_20190917_SPTHAZE_5120715.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000279.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000446.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (435).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (313).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000108.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/haze_malaysia_2_malay_mail (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/AP_20029366425735-1500x1000.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (820).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000314.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (253).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000248.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (101).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/kljlhk.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000852.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000709.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (227).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (485).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000352.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (521).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/PRI_129079114_1580299603.195.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000179.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000182.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/DSC_9492.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000698.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/chine-virus-.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000816.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000679.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (464).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (242).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (696).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000598.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (430).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000163.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/EI5OJLAMAFFI5M3G3ZU2ISJCL4.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/hong-kong-reports-first-case-coronavirus-novel_9a681f6c-3d20-11ea-ae56-f909945546d5.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (604).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (161).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (189).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000735.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000075.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (18).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (759).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (715).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/89c93a24-3f73-11ea-a16e-39b824591591_image_hires_211659.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (784).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000478.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000411.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000141.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (345).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/diy000_1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1288126-10255706714jpg.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo_l.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1477443223-1445746883.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000099.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000142.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000460.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000619.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000026.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2754d1bd621.image.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000065.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000646.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (774).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000722.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000400.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000541.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (729).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (28).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/banale_mask6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000074.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000418.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (601).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190919FL12-seo.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000363.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (537).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (377).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (603).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (680).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (406).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200121234234-01-coronavirus-0121-super-tease.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1000019q689461s9r0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000749.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000280.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/article-5e33cd3b3eb4b.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000263.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000583.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000266.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020_01_25_85193_1579923621._large.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (96).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (125).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/83585356_10163410411900019_8587067048494891008_o_IJAgD_1200x0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/4673871.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000318.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000697.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (322).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000447.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000243.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000420.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000147.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-2019-10-04t075956z_1862636027_rc15d4d49d00_rtrmadp_3_hongkong-protests.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000750.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3FED259000000578-4472558-Dangerous_People_in_northern_China_were_seen_wearing_masks_and_c-a-2_1493888420858.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200128110635-02-wuhan-virus-beijing-0127-super-tease.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000025.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000091.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sars-gettyimages-157005245.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (586).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000581.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/15-08608-001.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (193).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (593).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000215.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/000b7b75-1600.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (451).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000399.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-bild.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000439.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/rawImage.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (818).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000044.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000125.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (160).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000639.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000552.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/52119813_101.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200102re0204-810x424.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000633.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (455).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/remote.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/e68891e4bbace69c89e782b9e4b88de5ae89efbc9ae586a0e78ab6e79785e6af92e6a188e58f91e7949fe5908eefbc8ce7baa6e5858be5ada6e7949f.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (2).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000847.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/23692138-0-image-a-22_1579631872401.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (157).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000527.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000745.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000132.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2ac9654bbdd_o_full.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000034.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000301.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000665.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (258).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000289.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus_mask_airport_12920-1-1500x1000.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000791.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000366.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus-China.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (605).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/fghfgghffhg.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000236.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (688).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000190.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1249493.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (115).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (799).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (773).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000573.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (140).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (246).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000016.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (711).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (563).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000702.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/remote (1).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (765).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1125506397_15801322207071n.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000036.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (449).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (437).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/img-1580446267-73019@900.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (134).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nz_srilanka_280120.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/p410009sn4po8p82746.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (427).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (391).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (558).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000299.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000306.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/funnyMask_thumb_20200201_J_1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000489.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/338e9a9058e242058c3321bcf165c394_18.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000222.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/f4049fa6cbb77a3a6e01751c0883d6b3.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000613.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20pcs-Fashion-Mouth-Mask-Activated-Carbon-Cotton-Mask-Windproof-Anti-Dust-Men-and-woman-Mask-Health.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000335.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (700).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (201).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (797).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (113).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000677.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580048340614.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/CHINA-VIRUS-TRAVEL-1-SOC.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000738.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (802).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (701).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (620).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000833.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (422).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (801).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/81717218_412496646125299_2821021798043222016_n20copy_N8G8X_1200x0.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (46).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000630.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000056.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1p00017o82psp0o0or.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (747).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000161.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000377.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000354.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200205180259-7578788d.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (749).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000782.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/4646.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000440.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (317).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (617).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000409.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2_WORLD_Coronavirus_083975.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (15).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nouveau-virus-en-chine-la-ville-de-wuhan-mise-en-quarantaine-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (609).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000277.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000253.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (70).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000563.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/71a899b4-912e-426e-9694-7d84f0bc42ca.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3a41c78e-1aec-4986-82a3-844ac76bb7d9f9949991-1ed3-4bdd-abc4-ccf15beed025.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000384.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/879f-innckce8090018.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000258.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000359.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (405).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/mask2.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000651.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/9a97c47e58ca6324cc0feaef3ef25c8c.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/BBZjpyg.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/China-coronavirus-9.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000264.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000523.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0209-00176-076b1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (69).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus-chinois-precaution-maximale-en-France-les-rapatries-seront-en-quarantaine-pendant-14-jours.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000087.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/bkn-20180225144433772-0225_00822_001_01p.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000756.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/CHINA-HEALTH_THAIaaaLAND_1580210047.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000106.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1579928067_250120120154270000005e2bca03bf464.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/REVZGCBIJNQPMIIXOKDCQA3GJI.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000477.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000140.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (402).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (443).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0200b38c89b16c37c5de8e247bb00c2f.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d4693541.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/asdasddfff.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000369.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000843.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (708).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (321).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000274.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/msgsgsg.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/fjkffjf.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000593.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (645).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/China-coronavirus-AP-1024x576.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (426).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/BBZppaq.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000716.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (560).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000311.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (378).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (522).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (162).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000316.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000824.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580254255-c2913345cf530d48618522071d23e606.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000211.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000628.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (305).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (106).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0009S6815V3PEU1N-C123-F4.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (326).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/8b74444760f670bb5cee48f86bb7be950bf113a8.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (525).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168868266_885872d9-a451-4b7a-acae-0a6629426979-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (608).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000136.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000260.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (75).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (628).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (629).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000312.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000492.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000486.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (208).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-fa978043deff83fed485af12d16e39c61398fc30.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000591.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000272.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000082.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (36).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (270).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (383).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (14).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (19).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (371).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/pic_list_out_2285.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (234).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (68).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (639).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-en-chine.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000569.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000014.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Hong_Kong_China_Outbreak_59700-1790x1254.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nyu-coronavirus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (754).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (65).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/GettyImages-1195102180-1@1200x1200.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000347.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000551.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (446).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000249.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (643).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (662).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000488.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000252.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200129001153.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000783.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000072.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000297.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000336.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000130.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/6486x4324_891967097166.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000533.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/bajo_la_sombra_del_coronavirus_llega_el_ano_nuevo_lunar_hay_30_millones_de_personas_con_restricciones.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1ce705ad23afe2235b19d82795c10.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (420).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (684).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (514).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000286.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (53).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000548.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000742.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (804).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (407).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000839.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000381.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5865559_012020-cc-cnn-coronavirus-monday-update-vid.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000507.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (650).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (37).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (806).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000006.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (798).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000660.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (105).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (206).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000022.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200206132618-c9fcbba8.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000450.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (663).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000761.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000610.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000618.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (375).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000800.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/18s50010p60n147o750p.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000319.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000081.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (51).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (224).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000624.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/carrie-lam-wearing-mask-wrongly.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000078.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (515).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000049.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580166133-5b61094cac11561b0cbe09826e32a924.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/virus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_167450115_211c72f4-b732-4b8f-aac3-de17afbab5cc-superJumbo.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo (1).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (689).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (301).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/4420x3000_614437672978.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000734.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/389711_84767ea8af93d57a_o.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (362).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000732.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000119.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (41).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (58).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (450).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2db04133a98185aa0d382511debbcd70.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000355.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000302.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000159.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000376.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000514.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/694dc4da21faa5ec443aabe4168db873f3a58e1e.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000681.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (239).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/012420_coronoa_masks_web.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000214.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1A83945A-7AB5-40A4-A664-C2248656043B.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020_0120_7f239fc9j00q4e1uf001mc000xc00irc.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ca_whodeclaration_012220.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000186.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (821).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (513).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (296).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20171111234800_96.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000246.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (333).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-491638349-1024x1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (173).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-4.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (386).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Model-with-White-face-mask-with-red-X-2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/article-5e3a3b262ca4f.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/us-state-department-warns-against-visiting-china-citing-coronavirus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000122.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/6A8390F8530C49FFA11C4E4BFCC2C3C4.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (786).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/PA-49784209-1024x684.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000001.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (78).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (492).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (459).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000085.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180424112615601.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000233.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000296.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (7).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coverC.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000644.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/27f311c2aba2470da962e1338aca8920.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/p41000n445r5595258q.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-1198356730-594x594-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000769.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000730.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (354).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000536.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (740).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000841.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000402.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000690.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000748.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/8b13ac10-40d7-11ea-bbf7-2b13a42548bc.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000321.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sdsdsff.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1288788-une-employee-aide-des-voyageurs-en-provenance-de-chine-le-26-janvier-2020-a-l-aeroport-de-roissy.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000084.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1r220007qp9ns7771468.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000120.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000547.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000531.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1483800496-3386248642.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (177).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/PHOTriZgIKIgsnNLdBJG75vj200203_1000x2000.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (314).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000515.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (82).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000529.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/304a4d44504b67475246.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/cabd7dacf720acc8f901b6f2703b969a_w.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000498.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000158.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (757).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-outbreak-china-japan-ap.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/614kCGAjpFL._AC_SL1005_.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000193.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (277).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000650.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (56).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/is-it-safe-to-travel-to-china-india-issues-advisory-after-deadly-coronavirus-outbreak-1200x834.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000415.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (241).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (826).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200105pfb29a_Singapore_Changi_Airport.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000225.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (502).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000508.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000565.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (674).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/530083.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (472).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200127001976.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000028.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (279).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (143).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/shutterstock_1145933543-e1579497052960.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (409).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (153).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000435.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5db917bb89170.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000020.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B9722312779Z.1_20200121213829_000+GBRFBJB9C.2-0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (289).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168812403_11ff9d1e-46f1-48fc-814a-bcf89fafb6e4-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1024x576_939430607723.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200109114315557.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000201.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000696.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580128422.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (518).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (382).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000491.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200128150215888112.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000284.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000519.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000601.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200204145259-oms-organizacion-mundial-salud-coronavirus-no-epidemia-mundial-portafolio-global-cnnee-00000226.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000114.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000009.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000770.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (156).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000556.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000345.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (723).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000139.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (249).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (358).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000371.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000039.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (21).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000372.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000223.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (632).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000164.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000729.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020_01_30_85529_1580351638._large.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (781).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/mao-virus-900x540.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000616.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo (2).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (776).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (519).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3p7p0002870p18p3sqq3.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e4506c12d5ba.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (785).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (11).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000047.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/304a4d44504b46697475.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000790.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (713).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (673).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (195).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000470.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/medicom_50_1578883042_4270ce52_progressive.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (24).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/content_e1c70ab9-4718-4637-8b7e-cfa897feb81c.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (114).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (16).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (180).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000570.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/LondonChineseny260120-3.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (599).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000493.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000586.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (728).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (692).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000733.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (779).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200204102034251866.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000045.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (214).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000496.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (724).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (186).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (267).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000517.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000379.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (170).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000121.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (612).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000848.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (454).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (763).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (228).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (12).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/e5ac72af03e3fb0b44b98befd53103dd.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/in-swine_flu_school.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000232.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000118.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000710.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000535.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (748).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/23china-virus5-videoSixteenByNineJumbo1600.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000754.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (705).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000767.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20171106_T0207-1024x623.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000146.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000680.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000063.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000197.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000688.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (800).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (551).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000675.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000326.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/oms-declara-emergencia-internacional-por-coronavirus-ap.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (478).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000131.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (683).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (796).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000539.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000169.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (359).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/9e6bf0fbabfbde89c74bff7e25af86b3.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (627).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000629.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000151.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/skypost16012020a01s.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000041.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (178).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (575).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (204).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000762.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000282.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000110.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000057.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (290).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000353.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000739.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (461).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000123.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000532.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000341.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (349).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000349.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/cffa6423a9a85c857336b9e0463a6.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (266).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000567.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020012921402900_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (166).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (722).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000480.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Surgical-Mask-Effectiveness.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (323).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (571).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/600_1495191_2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (203).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/febfe125a0904416a97b9ff3be08517c.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (355).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/NUZZHAB7IMI6VHQQW44IVOMBHU.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (198).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000027.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (618).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/TASS38012699.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168765846_a430c80e-b84d-4ee4-a65e-4adda3f1e353-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (388).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000576.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000080.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000678.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000170.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (199).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000428.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000375.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000138.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000079.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (92).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Getty_Beijing-Air-Pollution_web.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3061836_4_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000596.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (421).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_2.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000052.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/istockphoto-1146065612-1024x1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (584).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (756).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3050370_2_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-1203216106-1800.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180227002525.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (163).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000194.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000606.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200130-Messer-Coronavirus-tease_ffi1jk.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (226).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5949e78f384b4.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (104).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000505.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (565).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000689.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/15391513324714o1n0r10n6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (109).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (149).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000331.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/dfgdfdgf.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000801.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (712).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (320).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/11893820-3x2-xlarge.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (738).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000115.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000467.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (668).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (168).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-1195416974-642dee894feb18fe7abcbe9e9783485132eca346.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (622).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000261.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (250).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (302).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (677).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000820.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (17).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/istockphoto-609942644-170667a.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (215).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (504).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000018.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/jordan.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000851.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200126001453.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000802.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000463.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (770).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (335).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000328.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000763.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (597).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (118).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000093.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (211).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (771).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (657).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/64d0947f-6fb5-4d47-9bf3-33f9110274bf_m.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/thai.cov-transmission030220.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000251.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (463).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (307).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000815.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus-outbreak-Calm-urged-as-anti-Chinese-sentiment-felt-in-New.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (433).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000060.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000431.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/135e-huxwryw6451820.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/025418_springwest005.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000294.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (822).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000135.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000741.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-contagios-china.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000768.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (316).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200130-031838_U14224_M588349_adf2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/c1_1848329.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000471.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/article-5e2d7e375fbff.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (488).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (460).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000452.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (651).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (122).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (511).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_8_2_0_24990283-1-eng-GB_rush hour osaka.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (136).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000512.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000664.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (825).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/304a4d44504b706e7834.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/380ba2c750bacbf52432089e87796264.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1000019q679o5611r7.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000421.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000245.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000708.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/maxresdefault (2).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (27).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190912FL4.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (389).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000102.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000385.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (652).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (572).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_2_8_5_1_24761582-1-eng-GB_bangkok.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (745).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e4504f1c264d.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (782).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/DENn-KMXoAEtKHy.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000378.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000538.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (129).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/jlkkk.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (273).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190714_aa5f8ff6fcac99b55a3aYyrFsvvq9Gyb.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (767).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000654.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/shutterstock_1627199179.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000482.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B9722571616Z.1_20200213123830_000+GH5FG2SJ5.2-0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (98).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000853.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000516.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/phpM5suKS.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000030.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020012913501217696.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000207.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (665).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000143.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (340).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (86).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (4).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000793.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/purchase-reauisition-5de4d0f99c77d.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (401).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/article-5e3820ca235ef.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (590).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000117.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/21812800265386_863.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000445.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/cc97d3a1-1982-47d0-9386-c3300b54695a-EPA_ITALY_CORONAVIRUS_ROME_AIRPORT.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/p61000068153229q475.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1133x768_20200130000023.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (260).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000818.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2a167e62fa8138db348605.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000212.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gjgjgj.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000373.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/LYNXMPEG102IV_L.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus_mask_airport_12920-1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/126202-untitled-design-13.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/mfile_1505703_1_L_20200130190326.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (399).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000562.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/9125fe343fe5b1208c8b44e46df02ad4output_00002.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/banale_mask2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (672).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000600.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (528).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (269).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000632.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000455.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3060869_1_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (693).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/PhotoGrid_1580452532909.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/skynews-coronavirus-london-fashion-week_4920359.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580286580_5bab.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1p00017o8357s6sno6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e305d2724306a4b381e8ea3.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/CHINA-HEALTH-VIRUS-134752 (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000617.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (676).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (360).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/HTB1ZfIrQVXXXXaEXVXXq6xXFXXXy.jpg_q50.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (259).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/kolkata-india-09th-dec-2018-people-wear-pollution-mask-during-an-awareness-campaign-for-right-to-breath-against-air-pollution-credit-saikat-paulpacific-pressalamy-live-news-R7H3AF.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000557.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (540).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/depositphotos_196902688-stock-photo-mother-daughter-protective-masks-hugging.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000473.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (497).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0ad90195-cd77-489e-bf85-08c83b80d3e0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (353).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/b2cc667dfe5907c01071b4741eb37779.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (641).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000483.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000295.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/AR-200139872.jpg&NCS_modified=&exif=.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (789).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (385).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000743.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000005.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000021.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (582).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000747.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000836.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000104.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (88).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000067.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/captura-de-pantalla-2020-01-27-a-las-7-32-55.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000148.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000033.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1581278917_899_Five-million-people-were-able-to-flee-Wuhan-before-quarantining.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (716).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000046.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (685).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (589).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000187.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000370.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (331).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (184).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000401.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/a-lady-wears-a-mask-while-visiting-tiananmen-square-in-beijing-february-DWC228.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000427.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000240.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (310).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (660).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000451.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200206152645607725.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/phppaNXxb.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000241.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/BBZdb0i.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (678).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/c1_1844849.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (580).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000333.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (671).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e0b03cd86d30.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (126).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (57).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000466.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000705.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000637.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (808).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000256.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (592).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/hong-kong-declares-emergency-shuts-down-schools.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000393.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000361.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000731.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000058.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (613).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000101.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Medical-face-mask-printed-fashion-surgical-disposable.jpg_350x350.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/dgjdjj.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200201002898.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (255).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo (4).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000267.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000073.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (484).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (742).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200206102815-d6a8099999dddcaf74281ddf55e12856-mobile.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000695.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (439).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/130624011830-malaysia-smog-students-horizontal-large-gallery.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000822.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000719.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (130).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168719709_ca49a12b-ebb2-4374-8d02-45648d2c312e-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000457.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (732).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/funny_mask_01_1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000217.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000410.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000434.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000846.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200130205302-01-coronavirus-0130-super-tease.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1196686205.jpg.14.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000720.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000615.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (325).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/China_teens.0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/76bda8e5-edf5-4f0c-8868-4cec4b413c00883e5a2b-7fff-4ae0-88d2-e9b7f1cf24c0.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2ac77cad399.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (80).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000497.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (731).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000669.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (60).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000184.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000817.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000189.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000234.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/125895-untitled-design-30.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000077.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (585).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (343).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000433.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (30).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000127.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/304a4d44504b4d6d7235.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (753).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000621.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1581171518_471_The-video-shows-officials-in-protective-suits-dragging-suspected-coronavirus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000506.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (583).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (381).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000673.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (714).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (469).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000773.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0602623232127-web-tete.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000198.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/600_3050748_8_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (131).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000740.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2019040317133725925.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/592FAD29E2-SP-6831851.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (400).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (440).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (783).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus_wuhan_yunfei_li.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1042977068.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (220).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (793).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (549).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (823).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000412.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200123001073.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/37e47040-dfbb-4f64-a1f5-2fc28920d660.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (501).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000599.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000779.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000356.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (633).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000692.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (368).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/46db30ff1d5a845cbe4e481ccc2626cd-149819.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (10).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/cute-asian-child-girl-wearing-protection-mask-to-against-air-smog-pollution-pm-city-142737995.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000342.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000348.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-6f1db5e0460631cfa98d2d6d8032942f81700bb0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (357).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000322.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (559).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1125506397_15801322207531n.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (482).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3056392_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/soo(1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2089-1393-2.49806339.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (520).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000676.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020_0126-coronavirus-1200x774.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/dfbgdhhh.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000522.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000048.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (562).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000614.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (280).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo (5).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (456).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000380.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000701.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/cba5afe7-67d8-48a4-ad60-d1d21948c393_size190_w1024_h795.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000178.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000499.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (233).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168049857_d9dadaa8-4e4b-4bc6-bc01-76ac21214669-superJumbo.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000205.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000113.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (566).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (474).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000313.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000502.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (543).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000043.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3895941437_b95f32a3f9_b.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000626.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000772.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (38).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000098.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000845.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000811.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000174.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000343.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/pollution-mask-CE5HYF.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20150618013406126.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/960x0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000794.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000620.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (687).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d81b382a5627d2aa15e4df08c67c6e4e_w.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000407.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000107.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000656.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000788.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000364.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (491).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (337).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000568.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000635.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000374.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (116).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1de4af84-e63a-479c-a9cd-622a0c93acd0-EPA_ITALY_CHINA_DISEASES_CORONAVIRUS.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/61l7nF+REtL._SL1001_.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000153.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000291.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (512).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2bd1431c-e585-4faf-b54c-0c25ae00d725.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000648.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (709).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000422.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/hbghxdx.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/maxresdefault.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/6a4f1bb4-7089-4130-8391-139e0a426537_m.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (812).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000180.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (319).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (154).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/soooo.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (379).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/c1_1844039.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (637).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000631.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/business-people-outbreak-.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000188.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000029.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000781.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000219.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (527).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1579683152-0e3ba5698b090c0fda95caa5d2aa7b31.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000156.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1155x768_20200129000089.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000414.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (544).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000070.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200131-china-health_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000785.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000199.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580173904-0001oc33f.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (367).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000806.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (542).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (380).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/6d4afcbc-d223-4602-a8e4-22c156ede18f-coronavirus005.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (466).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-CORONAVIRUS-CHINA-HEALTH-APPLE STORE.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000707.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (83).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000350.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20150603_20150603-131448.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000518.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/pjecDNMmCUQmbDoJx1fdqolnfHtpsfFK8jTA2Ng0wNg.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e45056957880.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1r1r0002n072r0n83257.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0002526673.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B9722344858Z.1_20200124184124_000+GE0FC9752.2-0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (216).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/stock-photo-mother-and-her-daughter-walking-go-to-school-with-wearing-a-protection-mask-against-pm-air-1346870465.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000622.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000432.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (245).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000168.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000308.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000798.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000416.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (155).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (699).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190816132049_5.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/KZJIS15WO6Beubo2G8EBQJpKpzIwOojzKyF02yshdNs.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/765007-china-battles-coronavirus-outbreak-all-the-latest-updates.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (761).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (581).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000444.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000609.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000625.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e27ba78dc6ca.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (262).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000200.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200126000588.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000545.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (545).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Cotton-PM2-5-Black-mouth-Mask-anti-dust-mask-Activated-carbon-filter-Windproof-Mouth-muffle.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000055.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000448.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (179).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (107).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000453.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (413).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000224.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000165.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/epidemie_coronavirus_2019_ncov_chine.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (541).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (120).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (304).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nqn000p326o7525q707.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (681).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000627.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3p8100004r67q21rn850.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (631).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (148).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3414e5ff97f342dd803e048c4670b8ac.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (283).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/EPg95nzWsAA0F4Q.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000419.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (294).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000712.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (54).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (415).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (146).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (50).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000325.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (351).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/air-pollution-delhi_2045672_835x547-m.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580193665-6e1d2548b55cbedaec4223d1180459e2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000472.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (181).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000469.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000238.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/shutterstock_289132226.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000323.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/bangkok-thailand-9th-feb-2018-people-wear-face-masks-to-protect-themselves-M34T39.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (257).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nq50003q8p707o0p586.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/so(19).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000723.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/190327-05_1024.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (556).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (190).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/phplpE73q.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/C9AAEF73EE-SP-6615089.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/oms-declara-emergencia-internacional-por-coronavirus-ap (1).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (72).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (550).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000655.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (647).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (183).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000166.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (165).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2939009978e24471b03796.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (653).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (546).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (363).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000035.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000726.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e26f95fa3101282064d4b72.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000231.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/284423_1453686934636.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168867003_1a8a1c5a-76af-4542-8585-bd6745eb0922-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/AP_20023382974442.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1948261-1595163312.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/bvnvmmmv.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180203222921-dadab393fb38472558f8bebc58a6006c-tablet.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000456.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000287.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (272).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (128).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000162.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (719).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/23012020_VirusMacau(cover)_AFP.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (813).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (473).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (133).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (666).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1p00017o8171pnq407.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000209.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/pb-140116-chinasmog-01_f0be38db4f1769172f4a0fa2e888d565.fit-2000w.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/b83abacd915ca1914599d05b4d62592a.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000094.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000485.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (425).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1-200102094256105.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000594.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000128.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/874dcd2bbd951b0669d8bb2ae612559c.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (531).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000590.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200124150848781978.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/iStock-998848022_1024.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1000019q669394n9qp.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/CHINA-HEALTH-VIRUS-134752.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (634).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (176).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/maxresdefault (4).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000524.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (268).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/w1240-p16x9-coronavirus_CHINA-HEALTH.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1224331650.g_400-w_g.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (707).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-1_1580220542.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (222).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (638).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (291).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000642.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (364).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gettyimages-1196638695.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (727).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000804.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (48).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000520.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000137.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (194).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000780.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000398.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000358.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/rally-against-an-anti-mask-law-meant-to-deter-anti-government-protesters-in-hong-kong-china-shutterstock-editorial-10435716z.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000360.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000575.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000071.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000092.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (610).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000832.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000653.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/unnamed.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000580.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0_8w7mkX-PHcfMM5s6.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (694).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (112).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (3).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000315.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e297f9988523320718b4576.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (611).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/BN-RO395_23658_OR_20170110002723.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sgssgg.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (404).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000338.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000623.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (788).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580205199-5e30048f695bb.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2020021418015630512.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/920x920.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Hong-Kong-Flu.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000059.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000213.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (99).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000670.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus-philippines.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (93).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200123110153-01-coronavirus-super-169.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (123).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ckeditor-5e4507060b13f.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200131-coronavirus-quiapo-manila-jc-1674.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ST_20170401_EASAND_3046471.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/mask02.jpg_1140x855.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000652.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000305.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (624).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000265.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/edd9cb3f-0f1d-4a24-9e65-5d542378c0db4aa96228-6590-42f3-b52b-7185481f0b8b.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000694.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000534.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (91).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (90).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_4.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (481).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (384).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000317.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/virus_protection123.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000437.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (218).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000585.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000442.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (71).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/GettyImages-1197620885.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (342).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/a2dcb0aa026a40d7b97e9326a9aed0b1.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000814.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/des-banlieusards-portant-des-masques-font-la-queue-a-la-gare-de-wuchang-a-wuhan-dans-la-province-centrale-du-hubei-en-chine-le-22-janvier-2020_6246102.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000760.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (336).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (649).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168883104_2f24a73d-d374-4f3e-8395-74b9ee4b865f-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (200).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/520ba294-d9d3-11e9-80eb-3aa57b6d2433_image_hires_212554.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (412).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (31).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/the-first-day-of-wuhan-s-closure-some-people-fled-some-panicked.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (271).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (768).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (396).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (626).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (159).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000574.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/infectado_con_coronavirus_visito_la_cdmx_2C_gobierno_ya_monitorea_a_quienes_estuvieron_expuestos.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/W37H3GWNO5EV5HTJQNP4KLIRGI.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (721).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/08_11_2019-airpollution_234_19737819_192539446.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000465.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/file77fstl7kf2pn88rslff.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000828.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (809).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000786.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (803).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (762).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000177.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (591).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (158).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (616).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20170804_20170804-150134.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (448).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (293).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/r1p00017o80q34s9781.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000206.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200130103155-wuhan-virus-0129-hong-kong-train-super-tease.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000382.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (517).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (39).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/EULIAXYMROU4BAHSJER73TX7EU.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (408).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000672.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000134.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000607.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200122a220554.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/f-chinasmog-a-20150223-870x605.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (150).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200122173230-01222020-wuhan-virus-visual-guide---page-top.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (306).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200128001132.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (755).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000216.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000757.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000641.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000389.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (5).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000064.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (570).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus-China-Twelve-Peruvian-people-are-good-in-the.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (434).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/89da4fbbd90bc2b2365f221705284446.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (658).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (600).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (625).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ap-image-coronavirus-philippines.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (192).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000605.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (324).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3056453_1_1.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (45).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/china-coronavirus-1580211853.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (300).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (334).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (414).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/khvhkk.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000643.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_5_7_7_5_24475775-4-eng-GB_Cropped-1579277753mask 2.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (20).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000339.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000396.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (594).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (152).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000288.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000344.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/haze_malaysia_2_malay_mail.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/los-angeles-airport-passengers-masks-coronavirus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200213190454409.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/ca_whodeclaration_012320_0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/TB2R28UvUOWBKNjSZKzXXXfWFXa_!!1116877752.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000202.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/F200128TNFF06-e1580404169820.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000053.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/coronavirus.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (299).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/616q000338qs8qorosp4.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (398).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/f571c0aca06a4e0780323ecc54931703_18.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (252).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000192.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (577).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0_10725.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/RTX7CD4D-e1580252893876.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (411).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/dd0f5fd4-e238-491a-8049-a1c9648aa0db.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/c1_1844109.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/mfile_1504919_1_L_20200126145338.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (25).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000475.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000424.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000691.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/airport-mask-1200x830.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo (3).jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/19febf94b949bf302d812a3a4f7c8b8db793c5c3.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus2401a.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000578.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000324.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000711.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000320.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (775).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/26_09_2019-air-pollution-chidrens_19614664.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000736.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (202).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/199o00041ns375p1rqp6.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000686.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000597.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (523).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gddgds.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190919FL13.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (288).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000588.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000397.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000803.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000038.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200123T1053-33328-CNS-CHINA-CHURCHES-CORONAVIRUS-scaled-e1579797785856-1024x575.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d3144235.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000706.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/002_1024.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000758.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (766).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (248).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (743).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (735).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (419).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190110210654_50.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/photo_0001_2020-02-04_F4IA3IB100AN0001NOS.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (635).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000436.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (457).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/004_1024.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/aad5d6ef-413e-4aa3-8e02-12d9178c5489.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000454.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (655).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B02A00_P_04_02.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Coronavirus -CHINE -janv.2020 - 1540 x 600.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/RTX1GIDS.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/94751852-8e29-4629-9015-5c68635faef3_m.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1024x737_09186876046.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000560.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000634.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000808.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/3JYBEKLY7NGJ3JGZPCA2XTHBRM.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000751.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/1580420190_11668721+US-NEWS-CHINA-VIRUS-HEALTHSYSTEM-1-ZUM.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000176.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000553.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (418).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190108213102_41.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (63).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/000_1ov3n5_0.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (441).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (29).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000666.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/200124-coronavirus-surgical-masks.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/news-videogiochi-intelligenza-artificiale-previsto-giorni-prima-epidemia-coronavirus-1580213989065.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (261).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/2014-02-26T035433Z_363713825_GM1EA2Q0X0E01_RTRMADP_3_CHINA-POLLUTION_0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000638.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (587).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/etueteteee.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000774.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (483).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000247.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000667.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20190704161622_5.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000438.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000145.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/843b3ea7c0eb9b80617cdac8d95afc0e.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/maxresdefault (3).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (370).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000195.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_4_1_7_2_24752714-1-eng-GB_philippine.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (630).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (554).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000727.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000837.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e2fde36af26c.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000611.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (607).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (137).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (169).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/0_Concern-In-China-As-Mystery-Virus-Spreads.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000604.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (510).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000778.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000368.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000799.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000543.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000066.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (361).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (490).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (445).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (175).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/gffgjfjfj.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (507).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000577.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000511.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (66).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (182).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/d6c103ca-7ec5-450f-9243-27663bcb4deb_0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/20200126042209655.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B9722326307Z.1_20200123100158_000+GO0FC03R2.2-0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (807).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000281.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (397).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/15391513321824spp815on8.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/B9722327986Z.1_20200123111831_000+GO0FC0I8E.2-0.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/Untitled-design-13.png
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000346.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/eteteteyt.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/5e324c568d536.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (73).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (172).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/270927388.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/357302c6647d1c91e83434188561bb49.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/-I1-MS09uaqsLdGTFkgnS0Rcg1mmPyAj95ySg_eckoM.jpeg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (274).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000559.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (392).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000230.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000007.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/nqn000p326n081sq0np.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000844.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/merlin_168147336_bd400ea4-2e50-4b87-90dc-8eb885e5d7be-master1050.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (13).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (792).jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000564.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/00000362.jpg
+/DATA1/Datasets_mine/labeled/vehicles_coco_voc/yolo/sunplusit (746).jpg

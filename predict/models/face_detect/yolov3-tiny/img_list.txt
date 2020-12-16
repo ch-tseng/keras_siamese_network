@@ -1,0 +1,2350 @@
+../dataset/masks_sunplusit_outsource_all/yolo/00000305.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (145).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (712).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (527).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2db04133a98185aa0d382511debbcd70.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000092.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (352).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000576.txt
+../dataset/masks_sunplusit_outsource_all/yolo/DSC_9492.txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-2019-10-04t075956z_1862636027_rc15d4d49d00_rtrmadp_3_hongkong-protests.txt
+../dataset/masks_sunplusit_outsource_all/yolo/694dc4da21faa5ec443aabe4168db873f3a58e1e.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000060.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000381.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190108213102_41.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000180.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000793.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000206.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000439.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (611).txt
+../dataset/masks_sunplusit_outsource_all/yolo/W37H3GWNO5EV5HTJQNP4KLIRGI.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200203_abcnl_prime_pannell_coronavirus_hpMain_16x9_992.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000434.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (542).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000478.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Surgical-Mask-Effectiveness.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (479).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000491.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (805).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (288).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000529.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000380.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (372).txt
+../dataset/masks_sunplusit_outsource_all/yolo/c1_1844039.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000476.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (720).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (183).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000727.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus_Shutterstock_China.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (591).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000243.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000004.txt
+../dataset/masks_sunplusit_outsource_all/yolo/23012020_VirusMacau(cover)_AFP.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000319.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000428.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (24).txt
+../dataset/masks_sunplusit_outsource_all/yolo/16583398_1901481846754323_9052270693084823552_n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/000_1OC3DT.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ac3e0ecf-8f40-4f69-84c5-ae11170cbc50.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000341.txt
+../dataset/masks_sunplusit_outsource_all/yolo/-1x-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (239).txt
+../dataset/masks_sunplusit_outsource_all/yolo/cba5afe7-67d8-48a4-ad60-d1d21948c393_size190_w1024_h795.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000629.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (560).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (518).txt
+../dataset/masks_sunplusit_outsource_all/yolo/kolkata-india-09th-dec-2018-people-wear-pollution-mask-during-an-awareness-campaign-for-right-to-breath-against-air-pollution-credit-saikat-paulpacific-pressalamy-live-news-R7H3AP.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000503.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000073.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (603).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000051.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (95).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (336).txt
+../dataset/masks_sunplusit_outsource_all/yolo/maxresdefault (4).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000312.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Nose_exposed_N95_grande.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000850.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (524).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (344).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-en-chine.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020_0120_7f239fc9j00q4e1uf001mc000xc00irc.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (812).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (274).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000558.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (206).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000121.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (332).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000783.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (665).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0602623232127-web-tete.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168528063_bf3cc2fc-0dc5-4941-82f2-190567367dd8-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b67475246.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (790).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000070.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (741).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (4).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000602.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (447).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (731).txt
+../dataset/masks_sunplusit_outsource_all/yolo/22d58fb1b9fff9d408d36a2c2313b217.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000461.txt
+../dataset/masks_sunplusit_outsource_all/yolo/b3907fd44a737877c847748438b72de9size_1000x561_size.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (121).txt
+../dataset/masks_sunplusit_outsource_all/yolo/rawImage.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (506).txt
+../dataset/masks_sunplusit_outsource_all/yolo/depositphotos_196900844-stock-photo-mother-wearing-protective-mask-daughter.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (403).txt
+../dataset/masks_sunplusit_outsource_all/yolo/200210163309-coronavirus-economia-mundial-afecta-brote-virus-portafolio-global-cnnee-00000000.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (174).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (588).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000017.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000114.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (421).txt
+../dataset/masks_sunplusit_outsource_all/yolo/pjecDNMmCUQmbDoJx1fdqolnfHtpsfFK8jTA2Ng0wNg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000598.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (68).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (615).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (768).txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo (3).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000025.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1482202839575.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (169).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (26).txt
+../dataset/masks_sunplusit_outsource_all/yolo/maxresdefault.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (691).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (629).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000559.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (600).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000829.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000424.txt
+../dataset/masks_sunplusit_outsource_all/yolo/89da4fbbd90bc2b2365f221705284446.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (232).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sgssgg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000590.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (273).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000546.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000167.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (655).txt
+../dataset/masks_sunplusit_outsource_all/yolo/3a41c78e-1aec-4986-82a3-844ac76bb7d9f9949991-1ed3-4bdd-abc4-ccf15beed025.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (703).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (165).txt
+../dataset/masks_sunplusit_outsource_all/yolo/is-it-safe-to-travel-to-china-india-issues-advisory-after-deadly-coronavirus-outbreak-1200x834.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000697.txt
+../dataset/masks_sunplusit_outsource_all/yolo/61tNVFFvHzL._SL1100_.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000475.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2ac77cad399.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000274.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (597).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000618.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sdsdsff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/pb-140116-chinasmog-01_f0be38db4f1769172f4a0fa2e888d565.fit-2000w.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (208).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000406.txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_2_8_5_1_24761582-1-eng-GB_bangkok.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e353e347af50726986e84c0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (590).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000325.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (778).txt
+../dataset/masks_sunplusit_outsource_all/yolo/shutterstock_584407723.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000266.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200129151820_fd638cb7a2000a1096ca3fbdc15a6fa9_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (547).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000255.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180227002525.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200130103155-wuhan-virus-0129-hong-kong-train-super-tease.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (400).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (781).txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168812403_11ff9d1e-46f1-48fc-814a-bcf89fafb6e4-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/dd0f5fd4-e238-491a-8049-a1c9648aa0db.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000343.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200131-coronavirus-quiapo-manila-jc-1674.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000711.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200130-Messer-Coronavirus-tease_ffi1jk.txt
+../dataset/masks_sunplusit_outsource_all/yolo/357302c6647d1c91e83434188561bb49.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000831.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200201002898.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000690.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000519.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (766).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (796).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (652).txt
+../dataset/masks_sunplusit_outsource_all/yolo/nz_srilanka_280120.txt
+../dataset/masks_sunplusit_outsource_all/yolo/c1_1844109.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000164.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (625).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000479.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000482.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (369).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000389.txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200201102936-wuhan-virus-0131-beijing-masks.txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1400018548960op29s.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000571.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000739.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (626).txt
+../dataset/masks_sunplusit_outsource_all/yolo/chinese-new-year-corona-virus-january-24-2020-003.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000533.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (637).txt
+../dataset/masks_sunplusit_outsource_all/yolo/b2cc667dfe5907c01071b4741eb37779.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000769.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (683).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (156).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000581.txt
+../dataset/masks_sunplusit_outsource_all/yolo/file77fstl7kf2pn88rslff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/S1-EV360_FACEMA_M_20200130144349.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000120.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000303.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000593.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (197).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (714).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (684).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000262.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000038.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000754.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000512.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (705).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (760).txt
+../dataset/masks_sunplusit_outsource_all/yolo/so(24) (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (294).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (509).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000080.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (673).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000580.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000704.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000371.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (119).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (235).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000744.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000703.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (321).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (310).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (809).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-enfermedades_infecciosas-infecciones-oms_organizacion_mundial_de_la_salud-salud_463715261_143871881_1024x576.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000819.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000550.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000320.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000805.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (561).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200128001132.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (726).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (66).txt
+../dataset/masks_sunplusit_outsource_all/yolo/d3144235.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (207).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Hong-Kong-Flu.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000176.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000280.txt
+../dataset/masks_sunplusit_outsource_all/yolo/6A8390F8530C49FFA11C4E4BFCC2C3C4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000722.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000637.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (559).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (817).txt
+../dataset/masks_sunplusit_outsource_all/yolo/022814asiatodaymasks_960x540.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000746.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000427.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000661.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000633.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000061.txt
+../dataset/masks_sunplusit_outsource_all/yolo/64d0947f-6fb5-4d47-9bf3-33f9110274bf_m.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (769).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (30).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000123.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (433).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1948261-1595163312.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (721).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (391).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020012921402900_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (767).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000168.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000668.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (69).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (640).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1152x768_246964803156.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (531).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (732).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000304.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (39).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000460.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000562.txt
+../dataset/masks_sunplusit_outsource_all/yolo/aad5d6ef-413e-4aa3-8e02-12d9178c5489.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000048.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (693).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000161.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (2).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (733).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000615.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000253.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000713.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000103.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000437.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (48).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000287.txt
+../dataset/masks_sunplusit_outsource_all/yolo/dfgdfdgf.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1581058884-453f88084aecc73cb5b29b1fe6474a56.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (143).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000076.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000440.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000823.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000384.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000202.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000400.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (233).txt
+../dataset/masks_sunplusit_outsource_all/yolo/9a97c47e58ca6324cc0feaef3ef25c8c.txt
+../dataset/masks_sunplusit_outsource_all/yolo/EPiHsqIU0AAZzJX.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (271).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0_8w7mkX-PHcfMM5s6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (29).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (389).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (494).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (455).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (326).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000587.txt
+../dataset/masks_sunplusit_outsource_all/yolo/fog-fog_8ea8ebba-c483-11e7-a37e-1053cac6ca52.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (567).txt
+../dataset/masks_sunplusit_outsource_all/yolo/unnamed.txt
+../dataset/masks_sunplusit_outsource_all/yolo/920x920.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200123001073.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (73).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000223.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (774).txt
+../dataset/masks_sunplusit_outsource_all/yolo/istockphoto-609943198-1024x1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (628).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (329).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000569.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000160.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000379.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000695.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000129.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (692).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000806.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (386).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (289).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (118).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000640.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000634.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (125).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000387.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (657).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (516).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000751.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (159).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (328).txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b706e7834.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (385).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (550).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000540.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (444).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1539151332674193npsrq70.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000678.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000213.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000468.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (549).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (459).txt
+../dataset/masks_sunplusit_outsource_all/yolo/3414e5ff97f342dd803e048c4670b8ac.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20171106_T0204-1024x621.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (91).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000838.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000386.txt
+../dataset/masks_sunplusit_outsource_all/yolo/37e47040-dfbb-4f64-a1f5-2fc28920d660.txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-5f8aa310737f8e0e6c43d95a68a82b03b6f60106.txt
+../dataset/masks_sunplusit_outsource_all/yolo/remote.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000706.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200123T1053-33328-CNS-CHINA-CHURCHES-CORONAVIRUS-scaled-e1579797785856-1024x575.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000155.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000067.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200120000931.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (621).txt
+../dataset/masks_sunplusit_outsource_all/yolo/BBZdb0i.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (739).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000197.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000547.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000329.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000059.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000435.txt
+../dataset/masks_sunplusit_outsource_all/yolo/RZXE24HFK5GSVKVSN57VCVPQ4M.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Persone.txt
+../dataset/masks_sunplusit_outsource_all/yolo/b83abacd915ca1914599d05b4d62592a.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000510.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000778.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000441.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000221.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000009.txt
+../dataset/masks_sunplusit_outsource_all/yolo/4420x3000_614437672978.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200130004271.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000210.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (581).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000595.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000431.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (671).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000308.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (649).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000043.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000538.txt
+../dataset/masks_sunplusit_outsource_all/yolo/135e-huxwryw6451820.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000349.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (256).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000442.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000701.txt
+../dataset/masks_sunplusit_outsource_all/yolo/AR-200139872.jpg&NCS_modified=&exif=.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000090.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000748.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ca_whodeclaration_012220.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722571616Z.1_20200213123830_000+GH5FG2SJ5.2-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1_R_kFK9pNLfKAuopY_lAaPQ.txt
+../dataset/masks_sunplusit_outsource_all/yolo/83585356_10163410411900019_8587067048494891008_o_IJAgD_1200x0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200123123851-6c35b988.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (242).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (50).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200127001976.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (238).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (723).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (535).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (138).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (255).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (463).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000564.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e4506c12d5ba.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3061836_4_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200129001153.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (339).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-contagios-china.txt
+../dataset/masks_sunplusit_outsource_all/yolo/istockphoto-609942644-170667a.txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-1198356730-594x594-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2a167e62fa8138db348605.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (19).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000652.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000034.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000020.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000827.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sdfsdfsfff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (236).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000211.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000313.txt
+../dataset/masks_sunplusit_outsource_all/yolo/beijing-oct-19-2014-chinese-girls-with-a-face-mask-beijing-raised-JEJXDX.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (678).txt
+../dataset/masks_sunplusit_outsource_all/yolo/epidemie_coronavirus_2019_ncov_chine.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (416).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (556).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (583).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000777.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000261.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (264).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2015-09-28T100613Z_640118265_GF10000225000_RTRMADP_3_SINGAPORE-HAZE.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000628.txt
+../dataset/masks_sunplusit_outsource_all/yolo/000b7b75-1600.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (425).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (613).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000429.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000217.txt
+../dataset/masks_sunplusit_outsource_all/yolo/77dd852cd97644dbb37570d1a4ad33e6_18.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000082.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200121234234-01-coronavirus-0121-super-tease.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (77).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000484.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (587).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000236.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000625.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000145.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000222.txt
+../dataset/masks_sunplusit_outsource_all/yolo/nq50003q8p707o0p586.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000659.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000740.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (680).txt
+../dataset/masks_sunplusit_outsource_all/yolo/us-state-department-warns-against-visiting-china-citing-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000712.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (791).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000144.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000382.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000249.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000708.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000033.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (426).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (318).txt
+../dataset/masks_sunplusit_outsource_all/yolo/52119813_101.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000411.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (672).txt
+../dataset/masks_sunplusit_outsource_all/yolo/27f311c2aba2470da962e1338aca8920.txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo (4).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (59).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000833.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (393).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000203.txt
+../dataset/masks_sunplusit_outsource_all/yolo/gffgjfjfj.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000735.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (84).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (756).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (710).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (147).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000263.txt
+../dataset/masks_sunplusit_outsource_all/yolo/eteteteyt.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000486.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (301).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000331.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (450).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000244.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000585.txt
+../dataset/masks_sunplusit_outsource_all/yolo/521315.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000148.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000417.txt
+../dataset/masks_sunplusit_outsource_all/yolo/27nt02wuhan5_1580094096.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (571).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (355).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (476).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1196686205.jpg.14.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000450.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (338).txt
+../dataset/masks_sunplusit_outsource_all/yolo/5949e78f384b4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (435).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (81).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000064.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2754d1bd621.image.txt
+../dataset/masks_sunplusit_outsource_all/yolo/33-1200x675.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (607).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000368.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e4507e23b957.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (704).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (823).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (173).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000260.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e45049792adb.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (716).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000057.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (112).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (411).txt
+../dataset/masks_sunplusit_outsource_all/yolo/nouveau-virus-en-chine-la-ville-de-wuhan-mise-en-quarantaine-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/RTX1GIDS.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000477.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (245).txt
+../dataset/masks_sunplusit_outsource_all/yolo/doctor_thumb_20200216_D_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e33b9087d4ba.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000541.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000269.txt
+../dataset/masks_sunplusit_outsource_all/yolo/CHINA-HEALTH_THAIaaaLAND_1580210047.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (188).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000394.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1579924271.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000530.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20181204072707536.txt
+../dataset/masks_sunplusit_outsource_all/yolo/p410009sn4po8p82746.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (259).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000301.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (797).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000717.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580048340614.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580420190_11668721+US-NEWS-CHINA-VIRUS-HEALTHSYSTEM-1-ZUM.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000342.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (490).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000698.txt
+../dataset/masks_sunplusit_outsource_all/yolo/captura-de-pantalla-2020-01-27-a-las-7-32-55.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000700.txt
+../dataset/masks_sunplusit_outsource_all/yolo/cc97d3a1-1982-47d0-9386-c3300b54695a-EPA_ITALY_CORONAVIRUS_ROME_AIRPORT.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000251.txt
+../dataset/masks_sunplusit_outsource_all/yolo/6d4afcbc-d223-4602-a8e4-22c156ede18f-coronavirus005.txt
+../dataset/masks_sunplusit_outsource_all/yolo/389711_84767ea8af93d57a_o.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (129).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000086.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (789).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000459.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000501.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000359.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (200).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1029731146.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1125506397_15801322206131n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/10fea_8011463765e2aa28b386cf.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000507.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3p8100004r67q21rn850.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1224331650.g_400-w_g.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (568).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000232.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (478).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580173904-0001oc33f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000438.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000326.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B612_20200127_155432_958.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000327.txt
+../dataset/masks_sunplusit_outsource_all/yolo/skynews-coronavirus-london-fashion-week_4920359.txt
+../dataset/masks_sunplusit_outsource_all/yolo/GettyImages-1196435496.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (358).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (551).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (142).txt
+../dataset/masks_sunplusit_outsource_all/yolo/the-first-day-of-wuhan-s-closure-some-people-fled-some-panicked.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (448).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200201102625901450.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000551.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (172).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Cotton-PM2-5-Black-mouth-Mask-anti-dust-mask-Activated-carbon-filter-Windproof-Mouth-muffle.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200105pfb29a_Singapore_Changi_Airport.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000013.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (486).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (474).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (619).txt
+../dataset/masks_sunplusit_outsource_all/yolo/medicom_50_1578883042_4270ce52_progressive.txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_4_1_7_2_24752714-1-eng-GB_philippine.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200122173230-01222020-wuhan-virus-visual-guide---page-top.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000436.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (230).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (149).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000318.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (763).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000691.txt
+../dataset/masks_sunplusit_outsource_all/yolo/bajo_la_sombra_del_coronavirus_llega_el_ano_nuevo_lunar_hay_30_millones_de_personas_con_restricciones.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3056453_1_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (517).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (166).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000184.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (137).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (139).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000464.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (101).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000035.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000788.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (252).txt
+../dataset/masks_sunplusit_outsource_all/yolo/BBZppaq.txt
+../dataset/masks_sunplusit_outsource_all/yolo/b7a52faa-2962-4bf0-a359-1358d0c47d76.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (23).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (418).txt
+../dataset/masks_sunplusit_outsource_all/yolo/shutterstock_editorial_10536831j.2e16d0ba.fill-1200x650.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000624.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000837.txt
+../dataset/masks_sunplusit_outsource_all/yolo/a-asian-man-wear-hygienic-mask-for-protect-pm25-dust-on-white-background-RWW8BW.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20150618013406126.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (58).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200131002248.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (699).txt
+../dataset/masks_sunplusit_outsource_all/yolo/ca_coronaviruscontagious_012720getty.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000762.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000361.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (701).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (128).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000534.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000608.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e476cd4cd34a.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (800).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-1024x683.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (399).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000290.txt
+../dataset/masks_sunplusit_outsource_all/yolo/762858-travel-insurers-may-not-pay-out-for-passengers-caught-by-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (300).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000241.txt
+../dataset/masks_sunplusit_outsource_all/yolo/carrie-lam-wearing-mask-wrongly.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000524.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190110210654_50.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1030611863.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000662.txt
+../dataset/masks_sunplusit_outsource_all/yolo/China-coronavirus-AP-1024x576.txt
+../dataset/masks_sunplusit_outsource_all/yolo/soooo.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (803).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000267.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (631).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580286580_5bab.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (243).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (738).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-china-gty-aa-200124_hpMain_16x9_992.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (483).txt
+../dataset/masks_sunplusit_outsource_all/yolo/21812800265386_863.txt
+../dataset/masks_sunplusit_outsource_all/yolo/article-5e3a3b262ca4f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000721.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190919FL12-seo.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e305d2724306a4b381e8ea3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200126042209655.txt
+../dataset/masks_sunplusit_outsource_all/yolo/purchase-reauisition-5de4d0f99c77d.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (270).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000664.txt
+../dataset/masks_sunplusit_outsource_all/yolo/e5ac72af03e3fb0b44b98befd53103dd.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (312).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000031.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (93).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (663).txt
+../dataset/masks_sunplusit_outsource_all/yolo/cabd7dacf720acc8f901b6f2703b969a_w.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (219).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (223).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000077.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ca_coronaviruscontagious_012720getty (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (164).txt
+../dataset/masks_sunplusit_outsource_all/yolo/23china-virus5-videoSixteenByNineJumbo1600.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000032.txt
+../dataset/masks_sunplusit_outsource_all/yolo/26_09_2019-air-pollution-chidrens_19614664.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000456.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (431).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000246.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (323).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (342).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (709).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000597.txt
+../dataset/masks_sunplusit_outsource_all/yolo/003_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (105).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (437).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (162).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000205.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000828.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000011.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (579).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000279.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000584.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (148).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000408.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (660).txt
+../dataset/masks_sunplusit_outsource_all/yolo/PA-49784209-1024x684.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (430).txt
+../dataset/masks_sunplusit_outsource_all/yolo/china-holiday-mask.txt
+../dataset/masks_sunplusit_outsource_all/yolo/22-pollution-2706961_1280-5e2867be94204-1024x683.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (284).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (466).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000502.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (618).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (495).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000039.txt
+../dataset/masks_sunplusit_outsource_all/yolo/phplpE73q.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000753.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (775).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (698).txt
+../dataset/masks_sunplusit_outsource_all/yolo/khvhkk.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1483800496-3386248642.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000030.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1000x-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (630).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000814.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (534).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0_Concern-In-China-As-Mystery-Virus-Spreads.txt
+../dataset/masks_sunplusit_outsource_all/yolo/chine-virus-.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (330).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000490.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200205180259-7578788d.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000003.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (825).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000787.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (378).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000567.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000554.txt
+../dataset/masks_sunplusit_outsource_all/yolo/smartmi-3pcs-filter-mask-pm25-haze-dustproof-mask-with-vent.txt
+../dataset/masks_sunplusit_outsource_all/yolo/fghfgghffhg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (558).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (297).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000447.txt
+../dataset/masks_sunplusit_outsource_all/yolo/126202-untitled-design-13.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580254255-c2913345cf530d48618522071d23e606.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (286).txt
+../dataset/masks_sunplusit_outsource_all/yolo/3050308_1_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (664).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (608).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000675.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000162.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000720.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000370.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (341).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000185.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (644).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000631.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000626.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (502).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-outbreak-china-japan-ap.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000230.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000348.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000714.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (111).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (713).txt
+../dataset/masks_sunplusit_outsource_all/yolo/bvnvmmmv.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (481).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (798).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000752.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000277.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (215).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000849.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1125506397_15801322207531n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (17).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (676).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (806).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000130.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000330.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (667).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (198).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200128001360.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (134).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000124.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e26f95fa3101282064d4b72.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000355.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (575).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000109.txt
+../dataset/masks_sunplusit_outsource_all/yolo/NUZZHAB7IMI6VHQQW44IVOMBHU.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000780.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (757).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000281.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (308).txt
+../dataset/masks_sunplusit_outsource_all/yolo/fgfgfghfg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/CHINA-HEALTH-VIRUS-134752.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (580).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0450908675_50159485_mutation-virus-chine-inquietude.txt
+../dataset/masks_sunplusit_outsource_all/yolo/fj44ruyrt.txt
+../dataset/masks_sunplusit_outsource_all/yolo/0_10725.txt
+../dataset/masks_sunplusit_outsource_all/yolo/LYNXMPEG102IV_L.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (246).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (708).txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e324c568d536.txt
+../dataset/masks_sunplusit_outsource_all/yolo/4646.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_167450115_211c72f4-b732-4b8f-aac3-de17afbab5cc-superJumbo.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (16).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000234.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (6).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (72).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000743.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (428).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (453).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000681.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (94).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000200.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (249).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (744).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000497.txt
+../dataset/masks_sunplusit_outsource_all/yolo/phppaNXxb.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000002.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000601.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (199).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000075.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000568.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000480.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000818.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2_WORLD_Coronavirus_083975.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (97).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (802).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000764.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000557.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000208.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000677.txt
+../dataset/masks_sunplusit_outsource_all/yolo/d11adb544ff4a18148366dd92e645cb1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (364).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (113).txt
+../dataset/masks_sunplusit_outsource_all/yolo/7399e9d37dcd470282ebd4b86f52d342.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000407.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (122).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580053154-5839.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20171111234800_96.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000172.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1197620896.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000195.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (60).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (33).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000836.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (529).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (267).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000467.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000220.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (746).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (745).txt
+../dataset/masks_sunplusit_outsource_all/yolo/maxresdefault (3).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000102.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000654.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (163).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (106).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000613.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (158).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (356).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (685).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (552).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000513.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (761).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000306.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1A83945A-7AB5-40A4-A664-C2248656043B.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000053.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000822.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (107).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (419).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (254).txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722326307Z.1_20200123100158_000+GO0FC03R2.2-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (281).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000724.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000811.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (45).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000183.txt
+../dataset/masks_sunplusit_outsource_all/yolo/GettyImages-1197620885.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (367).txt
+../dataset/masks_sunplusit_outsource_all/yolo/PRI_129079114_1580299603.195.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000508.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (31).txt
+../dataset/masks_sunplusit_outsource_all/yolo/9a9290ce-013c-4792-9fb7-183ef7326ab5e5743997-df54-41f6-b994-d779c59ccb8e_batchwm_batchwm.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000747.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000181.txt
+../dataset/masks_sunplusit_outsource_all/yolo/600_3050748_8_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (617).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000128.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000237.txt
+../dataset/masks_sunplusit_outsource_all/yolo/TB2R28UvUOWBKNjSZKzXXXfWFXa_!!1116877752.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000599.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200128150215888112.txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1p00017o80q34s9781.txt
+../dataset/masks_sunplusit_outsource_all/yolo/89c93a24-3f73-11ea-a16e-39b824591591_image_hires_211659.txt
+../dataset/masks_sunplusit_outsource_all/yolo/874dcd2bbd951b0669d8bb2ae612559c.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000087.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (317).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-1195416974-642dee894feb18fe7abcbe9e9783485132eca346.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000799.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (700).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (770).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000537.txt
+../dataset/masks_sunplusit_outsource_all/yolo/fjjfjfjf.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000173.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000364.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000604.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (750).txt
+../dataset/masks_sunplusit_outsource_all/yolo/f571c0aca06a4e0780323ecc54931703_18.txt
+../dataset/masks_sunplusit_outsource_all/yolo/nCoV_17_20200204.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000620.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000556.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000733.txt
+../dataset/masks_sunplusit_outsource_all/yolo/jordan.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (662).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000273.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (382).txt
+../dataset/masks_sunplusit_outsource_all/yolo/9125fe343fe5b1208c8b44e46df02ad4output_00002.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (557).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (577).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (822).txt
+../dataset/masks_sunplusit_outsource_all/yolo/so(19).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (804).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190928103638886.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000419.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (130).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gddgds.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Model-with-White-face-mask-with-red-X-2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000238.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000776.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Getty_Beijing-Air-Pollution_web.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (340).txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo (2).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000730.txt
+../dataset/masks_sunplusit_outsource_all/yolo/6000x4000_859864610306.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000054.txt
+../dataset/masks_sunplusit_outsource_all/yolo/des-banlieusards-portant-des-masques-font-la-queue-a-la-gare-de-wuchang-a-wuhan-dans-la-province-centrale-du-hubei-en-chine-le-22-janvier-2020_6246102.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000560.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000058.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000515.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000796.txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___cdn.cnn.com_cnnnext_dam_assets_200204145259-oms-organizacion-mundial-salud-coronavirus-no-epidemia-mundial-portafolio-global-cnnee-00000226.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (92).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (446).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000247.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (253).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000707.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (488).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000549.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000388.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mfile_1505052_1_L_20200127104344.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020021418015630512.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000834.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (309).txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b364d646b.txt
+../dataset/masks_sunplusit_outsource_all/yolo/101d6660a8974050b613dd2e6bd59390.txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-1196638695.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000422.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200122000104.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Hong_Kong_China_Outbreak_59700-1790x1254.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mask02.jpg_1140x855.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (133).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (668).txt
+../dataset/masks_sunplusit_outsource_all/yolo/CHINE-LYCEE-FRANCAIS-PEKIN.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000336.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000789.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (749).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000844.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (184).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (492).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (27).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000639.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000099.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000815.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722367586Z.1_20200127081358_000+G4IFCTD8B.1-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (679).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000010.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (266).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000056.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000284.txt
+../dataset/masks_sunplusit_outsource_all/yolo/image.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000734.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (491).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000413.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000068.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000794.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (762).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000821.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (497).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000636.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000366.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722312779Z.1_20200121213829_000+GBRFBJB9C.2-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/febfe125a0904416a97b9ff3be08517c.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000785.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000728.txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/img-1580446267-73019@900.txt
+../dataset/masks_sunplusit_outsource_all/yolo/284423_1453686934636.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2ac9654bbdd_o_full.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200206152645607725.txt
+../dataset/masks_sunplusit_outsource_all/yolo/a-lady-wears-a-mask-while-visiting-tiananmen-square-in-beijing-february-DWC228.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (771).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000410.txt
+../dataset/masks_sunplusit_outsource_all/yolo/abstrax_art_13120-copy.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20170804_20170804-150134.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200128120023-wuhan-3-super-tease.txt
+../dataset/masks_sunplusit_outsource_all/yolo/cute-asian-child-girl-wearing-protection-mask-to-against-air-smog-pollution-pm-city-142737995.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000231.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3060869_1_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (407).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (633).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (643).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (377).txt
+../dataset/masks_sunplusit_outsource_all/yolo/observerbd.com_1580560442.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000765.txt
+../dataset/masks_sunplusit_outsource_all/yolo/oms-declara-emergencia-internacional-ante-nuevo-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (729).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (14).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000204.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (402).txt
+../dataset/masks_sunplusit_outsource_all/yolo/hong-kong-declares-emergency-shuts-down-schools.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (413).txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-6f1db5e0460631cfa98d2d6d8032942f81700bb0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (595).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (717).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-6-1024x576.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (354).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000133.txt
+../dataset/masks_sunplusit_outsource_all/yolo/virus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000151.txt
+../dataset/masks_sunplusit_outsource_all/yolo/stsciRq.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000369.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020_01_30_85529_1580351638._large.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000804.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mfile_1505703_1_L_20200130190326.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000465.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (537).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (606).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (507).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000338.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000797.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (569).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000126.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000199.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000443.txt
+../dataset/masks_sunplusit_outsource_all/yolo/783be4c62f564a17ab5c260b0488296e.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (819).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (722).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000293.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000264.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (815).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000046.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180203222921-dadab393fb38472558f8bebc58a6006c-tablet.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (423).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (178).txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168719709_ca49a12b-ebb2-4374-8d02-45648d2c312e-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000498.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000328.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000742.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (651).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000169.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (471).txt
+../dataset/masks_sunplusit_outsource_all/yolo/rally-against-an-anti-mask-law-meant-to-deter-anti-government-protesters-in-hong-kong-china-shutterstock-editorial-10435716z.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000575.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (554).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000499.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1288788-une-employee-aide-des-voyageurs-en-provenance-de-chine-le-26-janvier-2020-a-l-aeroport-de-roissy.txt
+../dataset/masks_sunplusit_outsource_all/yolo/article-5e3820ca235ef.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (153).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000553.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (734).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200215165608560.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000294.txt
+../dataset/masks_sunplusit_outsource_all/yolo/-I1-MS09uaqsLdGTFkgnS0Rcg1mmPyAj95ySg_eckoM.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000594.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (80).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000373.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (396).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus_wuhan_yunfei_li.txt
+../dataset/masks_sunplusit_outsource_all/yolo/organizacion-preocupacion-potencial-virus-propague.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000270.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (522).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000683.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (296).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000749.txt
+../dataset/masks_sunplusit_outsource_all/yolo/d4693541.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mao-virus-900x540.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (380).txt
+../dataset/masks_sunplusit_outsource_all/yolo/kolkata-india-09th-dec-2018-people-wear-pollution-mask-during-an-awareness-campaign-for-right-to-breath-against-air-pollution-credit-saikat-paulpacific-pressalamy-live-news-R7H3AF.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580205199-5e30048f695bb.txt
+../dataset/masks_sunplusit_outsource_all/yolo/000_1ov3n5_0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000412.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000710.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000118.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200122a220554.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000759.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000466.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (292).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (74).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000505.txt
+../dataset/masks_sunplusit_outsource_all/yolo/28471483_1935501413188977_1651704873068168313_n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722327986Z.1_20200123111831_000+GO0FC0I8E.2-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000154.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000775.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000518.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200130-031838_U14224_M588349_adf2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (157).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (349).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (818).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-163903704-1024x1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (821).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000239.txt
+../dataset/masks_sunplusit_outsource_all/yolo/130624011830-malaysia-smog-students-horizontal-large-gallery.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000037.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000047.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (773).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000316.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000527.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000224.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000719.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168147336_bd400ea4-2e50-4b87-90dc-8eb885e5d7be-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e450681b7dad.txt
+../dataset/masks_sunplusit_outsource_all/yolo/shutterstock_1145933543-e1579497052960.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000291.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (61).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1477443223-1445746883.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000170.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000174.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000660.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000106.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (442).txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_5_7_7_5_24475775-4-eng-GB_Cropped-1579277753mask 2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/6a4f1bb4-7089-4130-8391-139e0a426537_m.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000574.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (291).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (594).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000583.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3p7r00027por8p8q10qp.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000589.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coverC.txt
+../dataset/masks_sunplusit_outsource_all/yolo/kGf6-hnvukfe8013164.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (536).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (439).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000588.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (754).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000026.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000830.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000296.txt
+../dataset/masks_sunplusit_outsource_all/yolo/air-pollution-delhi_2045672_835x547-m.txt
+../dataset/masks_sunplusit_outsource_all/yolo/REVZGCBIJNQPMIIXOKDCQA3GJI.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (262).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (501).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000817.txt
+../dataset/masks_sunplusit_outsource_all/yolo/da31b29a47d66e142b45e39eadf68b49.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000646.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (593).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (639).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000350.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (659).txt
+../dataset/masks_sunplusit_outsource_all/yolo/199o00041ns375p1rqp6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000079.txt
+../dataset/masks_sunplusit_outsource_all/yolo/asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000496.txt
+../dataset/masks_sunplusit_outsource_all/yolo/p41000n445r5595258q.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (622).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000352.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000684.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000134.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000307.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000376.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000257.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000040.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200126000588.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000451.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000023.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (140).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000770.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (695).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (532).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000487.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (127).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (182).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-protections-22.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000680.txt
+../dataset/masks_sunplusit_outsource_all/yolo/23692138-0-image-a-22_1579631872401.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (627).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000616.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (443).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000839.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580166133-5b61094cac11561b0cbe09826e32a924.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000798.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (295).txt
+../dataset/masks_sunplusit_outsource_all/yolo/fjkffjf.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (124).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000110.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (715).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (15).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000332.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000282.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (604).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000452.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000758.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000481.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200206102815-d6a8099999dddcaf74281ddf55e12856-mobile.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000096.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (293).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (530).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000420.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (776).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (758).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000643.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mfile_1504919_1_L_20200126145338.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1-200102094256105.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000795.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (801).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (462).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (54).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (565).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000430.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000658.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000022.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (742).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000268.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sars-gettyimages-157005245.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000007.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200206132618-c9fcbba8.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000809.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168765846_a430c80e-b84d-4ee4-a65e-4adda3f1e353-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (469).txt
+../dataset/masks_sunplusit_outsource_all/yolo/94751852-8e29-4629-9015-5c68635faef3_m.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (612).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (131).txt
+../dataset/masks_sunplusit_outsource_all/yolo/fjkllllg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000606.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1125506397_15801322207071n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (632).txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1000019q689461s9r0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000098.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus_mask_airport_12920-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200123110153-01-coronavirus-super-169.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000462.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200213190454409.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (420).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000495.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (360).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000463.txt
+../dataset/masks_sunplusit_outsource_all/yolo/464652.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (512).txt
+../dataset/masks_sunplusit_outsource_all/yolo/nqn000p326o7525q707.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (401).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (384).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (404).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000649.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000820.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus_mask_airport_12920-1-1500x1000.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180424112615601.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (56).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Face-Mask-vs-Surgical-Mask.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (359).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (228).txt
+../dataset/masks_sunplusit_outsource_all/yolo/los-angeles-airport-passengers-masks-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000612.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (305).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000418.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000377.txt
+../dataset/masks_sunplusit_outsource_all/yolo/c1_1844849.txt
+../dataset/masks_sunplusit_outsource_all/yolo/19970010p890r390q90o.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000523.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (538).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Smog-Mask-PM2-5-Carbon-Filter-Face-Masks-Fog-Dust-Air-Cleaner-anti-pollution-Face-Protector.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000042.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (764).txt
+../dataset/masks_sunplusit_outsource_all/yolo/NINTCHDBPICT000556650347-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3895941437_b95f32a3f9_b.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e4507060b13f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200129001040.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000097.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000627.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1_13.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (493).txt
+../dataset/masks_sunplusit_outsource_all/yolo/cff8244482ede545b1d81c9be7f5b6ed_original.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (432).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000692.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000198.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (682).txt
+../dataset/masks_sunplusit_outsource_all/yolo/msgsgsg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020-01-31t145112z-316030556-mt1yomiur000ajsyux-rtrmadp-3-novel-coronavirus-outbreak-japan-tokyo-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (473).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (436).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000156.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000139.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (616).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000278.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (353).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (365).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000116.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3p7p0002870p18p3sqq3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000159.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000258.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000219.txt
+../dataset/masks_sunplusit_outsource_all/yolo/China_teens.0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000671.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (728).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (814).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000289.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000375.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000158.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (55).txt
+../dataset/masks_sunplusit_outsource_all/yolo/518025850.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (785).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (794).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (458).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (171).txt
+../dataset/masks_sunplusit_outsource_all/yolo/380ba2c750bacbf52432089e87796264.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000066.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3050370_2_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000657.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (464).txt
+../dataset/masks_sunplusit_outsource_all/yolo/pic_list_out_2285.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000401.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000800.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (816).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000563.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580193665-6e1d2548b55cbedaec4223d1180459e2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000285.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000353.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (49).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (237).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (457).txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1000019q669394n9qp.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000101.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (456).txt
+../dataset/masks_sunplusit_outsource_all/yolo/cffa6423a9a85c857336b9e0463a6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000729.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000736.txt
+../dataset/masks_sunplusit_outsource_all/yolo/thai.cov-transmission030220.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (303).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000423.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (368).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000335.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000404.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (376).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1303078448-China-Coronavirus-Death-Toll-Hits-304.txt
+../dataset/masks_sunplusit_outsource_all/yolo/9557eaa8bad4b2f9615b57473de1d5f6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/AP_20029366425735-1500x1000.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (25).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (548).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (75).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000665.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1422808187-3291816118.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000525.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000433.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000083.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (523).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (520).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000295.txt
+../dataset/masks_sunplusit_outsource_all/yolo/d6c103ca-7ec5-450f-9243-27663bcb4deb_0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (623).txt
+../dataset/masks_sunplusit_outsource_all/yolo/P0000100005637_3_37742.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (21).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000622.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (175).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000840.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000689.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (57).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000847.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000543.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000310.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000449.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000790.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000696.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000455.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000006.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168867003_1a8a1c5a-76af-4542-8585-bd6745eb0922-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (217).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000570.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000841.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (541).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000755.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000286.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200206132610-95105bc6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000008.txt
+../dataset/masks_sunplusit_outsource_all/yolo/304193_medium.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (441).txt
+../dataset/masks_sunplusit_outsource_all/yolo/62c3d9a6-4c9e-493a-8935-19ead91e5c89_m.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020012913501217696.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000354.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (788).txt
+../dataset/masks_sunplusit_outsource_all/yolo/f-chinasmog-a-20150223-870x605.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000049.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000432.txt
+../dataset/masks_sunplusit_outsource_all/yolo/d3b67fe6-0529-46fd-bd99-75b44439a249.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (287).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (783).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000288.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000579.txt
+../dataset/masks_sunplusit_outsource_all/yolo/LQhzVZl.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000095.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000656.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (204).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000763.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000511.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2014-02-26T035433Z_363713825_GM1EA2Q0X0E01_RTRMADP_3_CHINA-POLLUTION_0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000485.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (285).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000801.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (677).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (670).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (278).txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo (5).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (231).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20371517_web1_200131-RDA-New-coronavirus-has-now-infected-almost-10000-including-three-in-Canada-coronavirus_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000188.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000786.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000191.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (180).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (241).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000147.txt
+../dataset/masks_sunplusit_outsource_all/yolo/RTX7CD4D-e1580252893876.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (371).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20pcs-Fashion-Mouth-Mask-Activated-Carbon-Cotton-Mask-Windproof-Anti-Dust-Men-and-woman-Mask-Health.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000317.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-China-Twelve-Peruvian-people-are-good-in-the.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ST_20170401_EASAND_3046471.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000745.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (392).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (647).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (168).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-1_1580220542.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (540).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000516.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000131.txt
+../dataset/masks_sunplusit_outsource_all/yolo/338e9a9058e242058c3321bcf165c394_18.txt
+../dataset/masks_sunplusit_outsource_all/yolo/f4049fa6cbb77a3a6e01751c0883d6b3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1042977068.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000650.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000738.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000493.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000453.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (226).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (675).txt
+../dataset/masks_sunplusit_outsource_all/yolo/business-people-outbreak-.txt
+../dataset/masks_sunplusit_outsource_all/yolo/UDD3JG3E4JFQ5KSFNGQQ5REINU.txt
+../dataset/masks_sunplusit_outsource_all/yolo/oxford-face-mask-neoprene-svart.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (513).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (636).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (146).txt
+../dataset/masks_sunplusit_outsource_all/yolo/img-1579662489-42239.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000248.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000399.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000085.txt
+../dataset/masks_sunplusit_outsource_all/yolo/8b74444760f670bb5cee48f86bb7be950bf113a8.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000339.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000500.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (807).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (586).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000577.txt
+../dataset/masks_sunplusit_outsource_all/yolo/PhotoGrid_1580452532909.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000081.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000347.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000177.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000088.txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1000019q679o5611r7.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000573.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000641.txt
+../dataset/masks_sunplusit_outsource_all/yolo/TASS38012699.txt
+../dataset/masks_sunplusit_outsource_all/yolo/8b13ac10-40d7-11ea-bbf7-2b13a42548bc.txt
+../dataset/masks_sunplusit_outsource_all/yolo/nyu-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Medical-face-mask-printed-fashion-surgical-disposable.jpg_350x350.txt
+../dataset/masks_sunplusit_outsource_all/yolo/61l7nF+REtL._SL1001_.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (42).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (813).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (654).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (666).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (765).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000135.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (397).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0209-00176-076b1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000108.txt
+../dataset/masks_sunplusit_outsource_all/yolo/hong-kong-face-masks-ban_wide-99cdd7414e7eccf0eddeeb3f1ab7b63dad878f11.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000028.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000561.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (205).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (151).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (154).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (553).txt
+../dataset/masks_sunplusit_outsource_all/yolo/mask2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000852.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (316).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020013023283369938.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2939009978e24471b03796.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000686.txt
+../dataset/masks_sunplusit_outsource_all/yolo/news-videogiochi-intelligenza-artificiale-previsto-giorni-prima-epidemia-coronavirus-1580213989065.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (747).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000623.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (449).txt
+../dataset/masks_sunplusit_outsource_all/yolo/190327-05_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000679.txt
+../dataset/masks_sunplusit_outsource_all/yolo/china-virus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (434).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (526).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000209.txt
+../dataset/masks_sunplusit_outsource_all/yolo/article-5e2d7e375fbff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000271.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1155x768_20200129000089.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000756.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000216.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (250).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000843.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000398.txt
+../dataset/masks_sunplusit_outsource_all/yolo/skypost16012020a01s.txt
+../dataset/masks_sunplusit_outsource_all/yolo/EULIAXYMROU4BAHSJER73TX7EU.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000105.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (22).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000773.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000337.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2ff7f35bc79c0ed6681a35.txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-0e48e0098f6e832f27d8b581b33bbc72b9967a63.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (566).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000367.txt
+../dataset/masks_sunplusit_outsource_all/yolo/air_pollution_is_far_more_damaging__dangerous_than_you_think_heres_everything_you_must_know_1540473738.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (696).txt
+../dataset/masks_sunplusit_outsource_all/yolo/phpM5suKS.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000741.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000153.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000470.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (277).txt
+../dataset/masks_sunplusit_outsource_all/yolo/in-swine_flu_school.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000372.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (415).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000132.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (98).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (398).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (203).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000187.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (624).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000846.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (210).txt
+../dataset/masks_sunplusit_outsource_all/yolo/soo(1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/p60000067206nr1o3nq.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (687).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000611.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000019.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000635.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000544.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (181).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000582.txt
+../dataset/masks_sunplusit_outsource_all/yolo/shutterstock_289132226.txt
+../dataset/masks_sunplusit_outsource_all/yolo/China-coronavirus-9.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000052.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000578.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (103).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (47).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-outbreak-Calm-urged-as-anti-Chinese-sentiment-felt-in-New.txt
+../dataset/masks_sunplusit_outsource_all/yolo/19febf94b949bf302d812a3a4f7c8b8db793c5c3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo_l.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (90).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (247).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000784.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (454).txt
+../dataset/masks_sunplusit_outsource_all/yolo/520ba294-d9d3-11e9-80eb-3aa57b6d2433_image_hires_212554.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000104.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000532.txt
+../dataset/masks_sunplusit_outsource_all/yolo/4dbab3160b74425bbcccbfb544c4bd2f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (28).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000150.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000774.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (614).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (521).txt
+../dataset/masks_sunplusit_outsource_all/yolo/ST_20190917_SPTHAZE_5120715.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ap-image-coronavirus-philippines.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000617.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000036.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000201.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (409).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (46).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000808.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (525).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (7).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000444.txt
+../dataset/masks_sunplusit_outsource_all/yolo/shutterstock_1627199179.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (290).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000138.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000062.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000405.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000723.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (334).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000157.txt
+../dataset/masks_sunplusit_outsource_all/yolo/asian-mom-carrying-her-baby-hipseat-walking-wearing-protection-mask-against-air-pollution-bangkok-city-thailand-asian-147889817.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (34).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (187).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (5).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (786).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (193).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000383.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000029.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000345.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580931246-086ed7d2f40bd4a5c77a21d0be988507.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000141.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000504.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (445).txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-chinois-precaution-maximale-en-France-les-rapatries-seront-en-quarantaine-pendant-14-jours.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000699.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000385.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (185).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (299).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000520.txt
+../dataset/masks_sunplusit_outsource_all/yolo/article-5e33cd3b3eb4b.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000535.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000356.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000782.txt
+../dataset/masks_sunplusit_outsource_all/yolo/765007-china-battles-coronavirus-outbreak-all-the-latest-updates.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (422).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (36).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (601).txt
+../dataset/masks_sunplusit_outsource_all/yolo/hong-kong-reports-first-case-coronavirus-novel_9a681f6c-3d20-11ea-ae56-f909945546d5.txt
+../dataset/masks_sunplusit_outsource_all/yolo/CHINA-VIRUS-TRAVEL-1-SOC.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (333).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000514.txt
+../dataset/masks_sunplusit_outsource_all/yolo/banale_mask6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B9722344858Z.1_20200124184124_000+GE0FC9752.2-0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ecXsCy7Ihab85IVseJTfxfmSjvaGyVWoSQTA4kkEwOI.txt
+../dataset/masks_sunplusit_outsource_all/yolo/bangkok-thailand-9th-feb-2018-people-wear-face-masks-to-protect-themselves-M34T39.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190919FL13.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000302.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (792).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (257).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (263).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000731.txt
+../dataset/masks_sunplusit_outsource_all/yolo/81717218_412496646125299_2821021798043222016_n20copy_N8G8X_1200x0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000127.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000344.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000642.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000832.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200204102034251866.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (686).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (755).txt
+../dataset/masks_sunplusit_outsource_all/yolo/EPg95nzWsAA0F4Q.txt
+../dataset/masks_sunplusit_outsource_all/yolo/15391513329330sooq10859.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000545.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (40).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20171106_T0207-1024x623.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (160).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (268).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-1203216106-1800.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000653.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (638).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180924203442_48b5abe63cc71d877d423d527fe4479c_2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000555.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (67).txt
+../dataset/masks_sunplusit_outsource_all/yolo/bkn-20180225144433772-0225_00822_001_01p.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1579928067_250120120154270000005e2bca03bf464.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ca_whodeclaration_012320_0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (381).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (646).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000392.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000816.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000666.txt
+../dataset/masks_sunplusit_outsource_all/yolo/a2dcb0aa026a40d7b97e9326a9aed0b1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000403.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000196.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000111.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (283).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (795).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000143.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000240.txt
+../dataset/masks_sunplusit_outsource_all/yolo/diy000_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/msk_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/airport-mask-1200x830.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (86).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000245.txt
+../dataset/masks_sunplusit_outsource_all/yolo/879f-innckce8090018.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (546).txt
+../dataset/masks_sunplusit_outsource_all/yolo/banale_mask2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (179).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (394).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000760.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (515).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000314.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000726.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (41).txt
+../dataset/masks_sunplusit_outsource_all/yolo/200128110635-02-wuhan-virus-beijing-0127-super-tease.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (224).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1024x576_939430607723.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (736).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (87).txt
+../dataset/masks_sunplusit_outsource_all/yolo/530083.txt
+../dataset/masks_sunplusit_outsource_all/yolo/fsdfsfff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000693.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1024x737_09186876046.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000792.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (498).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (108).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000471.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20150603_20150603-131448.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (272).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1581278917_899_Five-million-people-were-able-to-flee-Wuhan-before-quarantining.txt
+../dataset/masks_sunplusit_outsource_all/yolo/0009S6815V3PEU1N-C123-F4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (697).txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_8_2_0_24990283-1-eng-GB_rush hour osaka.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000673.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000531.txt
+../dataset/masks_sunplusit_outsource_all/yolo/F200128TNFF06-e1580404169820.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000186.txt
+../dataset/masks_sunplusit_outsource_all/yolo/haze_malaysia_2_malay_mail (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000140.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000725.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000630.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (634).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000027.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (780).txt
+../dataset/masks_sunplusit_outsource_all/yolo/edinburgh.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000807.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000357.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (545).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (211).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000824.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus2401a.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (190).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020-02-11t080104z_642105741_rc28ye91qg4c_rtrmadp_3_china-health.txt
+../dataset/masks_sunplusit_outsource_all/yolo/08_11_2019-airpollution_234_19737819_192539446.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (779).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000409.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (406).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (475).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (467).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000483.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190816132049_5.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000012.txt
+../dataset/masks_sunplusit_outsource_all/yolo/843b3ea7c0eb9b80617cdac8d95afc0e.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (582).txt
+../dataset/masks_sunplusit_outsource_all/yolo/4673875.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000592.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (10).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (711).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000705.txt
+../dataset/masks_sunplusit_outsource_all/yolo/LondonChineseny260120-3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000492.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (635).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000552.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (383).txt
+../dataset/masks_sunplusit_outsource_all/yolo/GettyImages-1195102180-1@1200x1200.txt
+../dataset/masks_sunplusit_outsource_all/yolo/HTB1ZfIrQVXXXXaEXVXXq6xXFXXXy.jpg_q50.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000107.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (53).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000694.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000610.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000365.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000360.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (689).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190912FL4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (414).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000225.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000276.txt
+../dataset/masks_sunplusit_outsource_all/yolo/270927388.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (62).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (661).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000194.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000472.txt
+../dataset/masks_sunplusit_outsource_all/yolo/B02A00_P_04_02.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5db917bb89170.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (11).txt
+../dataset/masks_sunplusit_outsource_all/yolo/fjfffjj.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (335).txt
+../dataset/masks_sunplusit_outsource_all/yolo/kljlhk.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000175.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000182.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000351.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (307).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000333.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000226.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000528.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (251).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (787).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1r1r0002n072r0n83257.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000015.txt
+../dataset/masks_sunplusit_outsource_all/yolo/nq50003q8p6q8n72p7o.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200124000104.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (373).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000414.txt
+../dataset/masks_sunplusit_outsource_all/yolo/virus_protection123.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000825.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000737.txt
+../dataset/masks_sunplusit_outsource_all/yolo/6486x4324_891967097166.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000848.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Pakistan-China-coronavirus-92news.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000235.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (104).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000591.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (499).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000715.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1ce705ad23afe2235b19d82795c10.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000426.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000536.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000094.txt
+../dataset/masks_sunplusit_outsource_all/yolo/article-5e450331d87b6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (366).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (772).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (325).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (694).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000212.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000632.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (707).txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b4d6d7235.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (225).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000136.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (429).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000272.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (427).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000458.txt
+../dataset/masks_sunplusit_outsource_all/yolo/funny_mask_01_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168883104_2f24a73d-d374-4f3e-8395-74b9ee4b865f-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (460).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000171.txt
+../dataset/masks_sunplusit_outsource_all/yolo/CHINA-HEALTH-VIRUS-134752 (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (451).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000309.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (387).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000781.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (405).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000275.txt
+../dataset/masks_sunplusit_outsource_all/yolo/c1_1848329.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (656).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (482).txt
+../dataset/masks_sunplusit_outsource_all/yolo/AP_20039189423521.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (280).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (759).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (461).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000457.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (345).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (213).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000163.txt
+../dataset/masks_sunplusit_outsource_all/yolo/thumbnail-ba5c72edb320b49a69e86b05775c49b2-scaled-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1581171518_471_The-video-shows-officials-in-protective-suits-dragging-suspected-coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1249493.txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e4504f1c264d.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (78).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (324).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000001.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000835.txt
+../dataset/masks_sunplusit_outsource_all/yolo/asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83.txt
+../dataset/masks_sunplusit_outsource_all/yolo/maxresdefault (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e45056957880.txt
+../dataset/masks_sunplusit_outsource_all/yolo/694940094001_6126793304001_6126794207001-vs.txt
+../dataset/masks_sunplusit_outsource_all/yolo/funnyMask_thumb_20200201_J_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (201).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000283.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (313).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000091.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (116).txt
+../dataset/masks_sunplusit_outsource_all/yolo/jlkkk.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000446.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (610).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0109-00176-096b1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000149.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (64).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (12).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000298.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (258).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000709.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000621.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (126).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (784).txt
+../dataset/masks_sunplusit_outsource_all/yolo/haze_malaysia_2_malay_mail.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000669.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1133x768_20200130000023.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (170).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000190.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (52).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (740).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0ad90195-cd77-489e-bf85-08c83b80d3e0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000207.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (719).txt
+../dataset/masks_sunplusit_outsource_all/yolo/photo_0001_2020-02-04_F4IA3IB100AN0001NOS.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000340.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (202).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020_01_25_85193_1579923621._large.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (645).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (327).txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1p00017o8171pnq407.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1288126-10255706714jpg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (751).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (718).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200124150848781978.txt
+../dataset/masks_sunplusit_outsource_all/yolo/PHOTriZgIKIgsnNLdBJG75vj200203_1000x2000.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (417).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000256.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (337).txt
+../dataset/masks_sunplusit_outsource_all/yolo/china-coronavirus-beijing-station-spring-festival.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000044.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000137.txt
+../dataset/masks_sunplusit_outsource_all/yolo/83855_1580055989W0WA.txt
+../dataset/masks_sunplusit_outsource_all/yolo/madame_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (275).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (43).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000687.txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_167592177_faab52d5-95c1-48a0-b533-934d06fbed8d-superJumbo.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000214.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000346.txt
+../dataset/masks_sunplusit_outsource_all/yolo/US-expands-coronavirus-screenings-United-suspends-some-flights-to-China.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000016.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000609.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000363.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1de4af84-e63a-479c-a9cd-622a0c93acd0-EPA_ITALY_CHINA_DISEASES_CORONAVIRUS.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000586.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (408).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (218).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000421.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (470).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (669).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000142.txt
+../dataset/masks_sunplusit_outsource_all/yolo/handsomeman-wearing-face-mask-protect-filter-against-air-pollution-pm-wear-n-anti-smog-viruses-caused-health-problem-global-170197893.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (161).txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-coronavirus_CHINA-HEALTH.txt
+../dataset/masks_sunplusit_outsource_all/yolo/remote (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (260).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (505).txt
+../dataset/masks_sunplusit_outsource_all/yolo/616q000338qs8qorosp4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/EPi37iZUYAAsBY5.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000005.txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b46697475.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (468).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000812.txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1p00017o82psp0o0or.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000323.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000322.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (362).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000119.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200129000063M.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000041.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-chinois-est-encore-trop-tot-pour-parler-pandemie.txt
+../dataset/masks_sunplusit_outsource_all/yolo/004_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000179.txt
+../dataset/masks_sunplusit_outsource_all/yolo/content_e1c70ab9-4718-4637-8b7e-cfa897feb81c.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (572).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (735).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (167).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000802.txt
+../dataset/masks_sunplusit_outsource_all/yolo/15150794626913.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000299.txt
+../dataset/masks_sunplusit_outsource_all/yolo/18s50010p60n147o750p.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000393.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200126001453.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (65).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (533).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000166.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000767.txt
+../dataset/masks_sunplusit_outsource_all/yolo/125895-untitled-design-30.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1553605632_9d5877d8_60.txt
+../dataset/masks_sunplusit_outsource_all/yolo/oms-declara-emergencia-internacional-por-coronavirus-ap (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-china-gty-aa-200130_hpMain_16x9_992.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mfile_1505918_1_L_20200131194930.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000178.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (485).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000218.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190704161622_5.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000084.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000810.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000655.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (514).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000324.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000607.txt
+../dataset/masks_sunplusit_outsource_all/yolo/823c6f248bacf766e04e2d0e3a4fd102.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000378.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000761.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000233.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000542.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (598).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000192.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (351).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (573).txt
+../dataset/masks_sunplusit_outsource_all/yolo/3056392_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/002_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (227).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (248).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sdgdsgsg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (589).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (314).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000362.txt
+../dataset/masks_sunplusit_outsource_all/yolo/d81b382a5627d2aa15e4df08c67c6e4e_w.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000448.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000415.txt
+../dataset/masks_sunplusit_outsource_all/yolo/istockphoto-1146065612-1024x1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (70).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (727).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (472).txt
+../dataset/masks_sunplusit_outsource_all/yolo/maxresdefault (2).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000619.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (674).txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e27ba78dc6ca.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000315.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1125506397_15801322206581n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000254.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000063.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000416.txt
+../dataset/masks_sunplusit_outsource_all/yolo/EI5OJLAMAFFI5M3G3ZU2ISJCL4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (578).txt
+../dataset/masks_sunplusit_outsource_all/yolo/200124-coronavirus-surgical-masks.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (395).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000845.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (563).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000851.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (484).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (375).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000614.txt
+../dataset/masks_sunplusit_outsource_all/yolo/depositphotos_196902688-stock-photo-mother-daughter-protective-masks-hugging.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000522.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (261).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1197315184.jpg.0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (544).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (782).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (37).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (500).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000215.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000397.txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-fa978043deff83fed485af12d16e39c61398fc30.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (298).txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e311c9d2f7f7.image.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000358.txt
+../dataset/masks_sunplusit_outsource_all/yolo/oms-declara-emergencia-internacional-por-coronavirus-ap.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (96).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (702).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200102re0204-810x424.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e0b03cd86d30.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (725).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (438).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000605.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000638.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (32).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (452).txt
+../dataset/masks_sunplusit_outsource_all/yolo/960x0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (390).txt
+../dataset/masks_sunplusit_outsource_all/yolo/detectan_nuevos_casos_de_neumonia_virica_en_china.txt
+../dataset/masks_sunplusit_outsource_all/yolo/616n0004s30pn0046716.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000445.txt
+../dataset/masks_sunplusit_outsource_all/yolo/DENn-KMXoAEtKHy.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (194).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (152).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (724).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000702.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (100).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (99).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (212).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (585).txt
+../dataset/masks_sunplusit_outsource_all/yolo/600_1495191_2.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (320).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (361).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (370).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (234).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000112.txt
+../dataset/masks_sunplusit_outsource_all/yolo/w1240-p16x9-CORONAVIRUS-CHINA-HEALTH-APPLE STORE.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000093.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (584).txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168868266_885872d9-a451-4b7a-acae-0a6629426979-master1050.txt
+../dataset/masks_sunplusit_outsource_all/yolo/download-14.txt
+../dataset/masks_sunplusit_outsource_all/yolo/etueteteee.txt
+../dataset/masks_sunplusit_outsource_all/yolo/15391513321824spp815on8.txt
+../dataset/masks_sunplusit_outsource_all/yolo/C9AAEF73EE-SP-6615089.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (519).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (189).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580128422.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (20).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000750.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000772.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3FED248000000578-0-image-a-13_1493884143646.txt
+../dataset/masks_sunplusit_outsource_all/yolo/15-08608-001.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (562).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (440).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000566.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20181122131659984_500.txt
+../dataset/masks_sunplusit_outsource_all/yolo/71a899b4-912e-426e-9694-7d84f0bc42ca.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (135).txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_9_0_4_8_24568409-3-eng-GB_RTS2ZDYX_2048x1152.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000716.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (44).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (609).txt
+../dataset/masks_sunplusit_outsource_all/yolo/3FED259000000578-4472558-Dangerous_People_in_northern_China_were_seen_wearing_masks_and_c-a-2_1493888420858.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000474.txt
+../dataset/masks_sunplusit_outsource_all/yolo/012420_coronoa_masks_web.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000813.txt
+../dataset/masks_sunplusit_outsource_all/yolo/edd9cb3f-0f1d-4a24-9e65-5d542378c0db4aa96228-6590-42f3-b52b-7185481f0b8b.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (602).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-4.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (730).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200131-china-health_1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (811).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (706).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (564).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (648).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (596).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20190714_aa5f8ff6fcac99b55a3aYyrFsvvq9Gyb.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000292.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000603.txt
+../dataset/masks_sunplusit_outsource_all/yolo/afe056da-d40d-11e7-93d7-6d6fc14be448_1280x720_155100.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (410).txt
+../dataset/masks_sunplusit_outsource_all/yolo/how-to-wear-surgical-masks-3-768x1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (510).txt
+../dataset/masks_sunplusit_outsource_all/yolo/304a4d44504b486d5279.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000826.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000548.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (543).txt
+../dataset/masks_sunplusit_outsource_all/yolo/pollution-mask-CE5HYF.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000113.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (279).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (3).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (302).txt
+../dataset/masks_sunplusit_outsource_all/yolo/dfbgdhhh.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000842.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2bd1431c-e585-4faf-b54c-0c25ae00d725.txt
+../dataset/masks_sunplusit_outsource_all/yolo/chinese-girl-with-face-mask-yinchuan-ningxia-china-J61449.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200109114315557.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (690).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000045.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2019040317133725925.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000117.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (88).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (743).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000454.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000757.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000252.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (777).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (150).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (176).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (528).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (642).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (331).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000718.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000489.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e2fde36af26c.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000663.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000396.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000791.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (322).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000259.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (191).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (799).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gettyimages-491638349-1024x1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (141).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (196).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (570).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000297.txt
+../dataset/masks_sunplusit_outsource_all/yolo/p600000670oq209288n.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (132).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000688.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000078.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (808).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000072.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000539.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000390.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000771.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (508).txt
+../dataset/masks_sunplusit_outsource_all/yolo/BBZjpyg.txt
+../dataset/masks_sunplusit_outsource_all/yolo/e68891e4bbace69c89e782b9e4b88de5ae89efbc9ae586a0e78ab6e79785e6af92e6a188e58f91e7949fe5908eefbc8ce7baa6e5858be5ada6e7949f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (209).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000670.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus-China.txt
+../dataset/masks_sunplusit_outsource_all/yolo/4673871.txt
+../dataset/masks_sunplusit_outsource_all/yolo/9e6bf0fbabfbde89c74bff7e25af86b3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (793).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000069.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (311).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (220).txt
+../dataset/masks_sunplusit_outsource_all/yolo/5865559_012020-cc-cnn-coronavirus-monday-update-vid.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (605).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1580571207_88208.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000100.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (658).txt
+../dataset/masks_sunplusit_outsource_all/yolo/china-coronavirus-1580211853.txt
+../dataset/masks_sunplusit_outsource_all/yolo/11893820-3x2-xlarge.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (109).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000494.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (214).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (574).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (76).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000766.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (120).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (136).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1140-travelers-at-hong-kong-airport.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Untitled-design-13.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000227.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000682.txt
+../dataset/masks_sunplusit_outsource_all/yolo/614kCGAjpFL._AC_SL1005_.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (71).txt
+../dataset/masks_sunplusit_outsource_all/yolo/merlin_168049857_d9dadaa8-4e4b-4bc6-bc01-76ac21214669-superJumbo.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000395.txt
+../dataset/masks_sunplusit_outsource_all/yolo/012106.jpg_1140x855.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (820).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (115).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000596.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000146.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000193.txt
+../dataset/masks_sunplusit_outsource_all/yolo/upload-productImg-1527496119162_320_234.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (89).txt
+../dataset/masks_sunplusit_outsource_all/yolo/b_20200210192750.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (826).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (63).txt
+../dataset/masks_sunplusit_outsource_all/yolo/ckeditor-5e4505ccf0ccc.txt
+../dataset/masks_sunplusit_outsource_all/yolo/p600000671574nq03o9.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000165.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mark3-1024x607.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (221).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000648.txt
+../dataset/masks_sunplusit_outsource_all/yolo/r1p00017o8357s6sno6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/cropped_image_l.txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020_0126-coronavirus-1200x774.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000853.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000425.txt
+../dataset/masks_sunplusit_outsource_all/yolo/76bda8e5-edf5-4f0c-8868-4cec4b413c00883e5a2b-7fff-4ae0-88d2-e9b7f1cf24c0.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000074.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1579683152-0e3ba5698b090c0fda95caa5d2aa7b31.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (1).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000488.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (123).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000242.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000469.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000152.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200214104031686644.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (82).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (480).txt
+../dataset/masks_sunplusit_outsource_all/yolo/asdasddfff.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000676.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (599).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (350).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (576).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (38).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (357).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000229.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (144).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2020-02-10t102227z_948473639_rc2mxe9xhk6y_rtrmadp_3_china-health.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000521.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (186).txt
+../dataset/masks_sunplusit_outsource_all/yolo/08165739.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000265.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (282).txt
+../dataset/masks_sunplusit_outsource_all/yolo/AP_20023382974442.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (641).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000565.txt
+../dataset/masks_sunplusit_outsource_all/yolo/772917ab9c7cd5d6b918f00f0d62fcda1514802182.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (503).txt
+../dataset/masks_sunplusit_outsource_all/yolo/2089-1393-2.49806339.txt
+../dataset/masks_sunplusit_outsource_all/yolo/7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809.txt
+../dataset/masks_sunplusit_outsource_all/yolo/AP20027208528038.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (304).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000768.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (51).txt
+../dataset/masks_sunplusit_outsource_all/yolo/KZJIS15WO6Beubo2G8EBQJpKpzIwOojzKyF02yshdNs.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000600.txt
+../dataset/masks_sunplusit_outsource_all/yolo/mers-south-korea-kids.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (244).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (539).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000473.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000300.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (13).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (102).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000125.txt
+../dataset/masks_sunplusit_outsource_all/yolo/hbghxdx.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000644.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000803.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000517.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (18).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (412).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (379).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (85).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000018.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (752).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (363).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000391.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000672.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (114).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (555).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (465).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000189.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (650).txt
+../dataset/masks_sunplusit_outsource_all/yolo/AP20028234767344-1024x683.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (79).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (681).txt
+../dataset/masks_sunplusit_outsource_all/yolo/1r220007qp9ns7771468.txt
+../dataset/masks_sunplusit_outsource_all/yolo/200130205302-01-coronavirus-0130-super-tease.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000122.txt
+../dataset/masks_sunplusit_outsource_all/yolo/stock-photo-mother-and-her-daughter-walking-go-to-school-with-wearing-a-protection-mask-against-pm-air-1346870465.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000667.txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-philippines.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (424).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (117).txt
+../dataset/masks_sunplusit_outsource_all/yolo/infectado_con_coronavirus_visito_la_cdmx_2C_gobierno_ya_monitorea_a_quienes_estuvieron_expuestos.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (222).txt
+../dataset/masks_sunplusit_outsource_all/yolo/d775a8c416694e62829a4269832520c6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/BN-RO395_23658_OR_20170110002723.txt
+../dataset/masks_sunplusit_outsource_all/yolo/20180927232308_67563e2a7ebff07ad2d2cf1d606fc2a3_3.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (810).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (216).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (688).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (110).txt
+../dataset/masks_sunplusit_outsource_all/yolo/RTX7CCFN.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000334.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (653).txt
+../dataset/masks_sunplusit_outsource_all/yolo/nqn000p326n081sq0np.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000645.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000572.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000674.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (489).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000506.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (265).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000311.txt
+../dataset/masks_sunplusit_outsource_all/yolo/p61000068153229q475.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000402.txt
+../dataset/masks_sunplusit_outsource_all/yolo/Coronavirus -CHINE -janv.2020 - 1540 x 600.txt
+../dataset/masks_sunplusit_outsource_all/yolo/1200x818.txt
+../dataset/masks_sunplusit_outsource_all/yolo/NINTCHDBPICT000558929314-1.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (269).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000526.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (319).txt
+../dataset/masks_sunplusit_outsource_all/yolo/coronavirus-bild.txt
+../dataset/masks_sunplusit_outsource_all/yolo/592FAD29E2-SP-6831851.txt
+../dataset/masks_sunplusit_outsource_all/yolo/46db30ff1d5a845cbe4e481ccc2626cd-149819.txt
+../dataset/masks_sunplusit_outsource_all/yolo/5e297f9988523320718b4576.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (388).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0002526673.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (511).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000647.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (496).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000055.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000651.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (8).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000509.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000021.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000374.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000115.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (592).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (155).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (620).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (177).txt
+../dataset/masks_sunplusit_outsource_all/yolo/0200b38c89b16c37c5de8e247bb00c2f.txt
+../dataset/masks_sunplusit_outsource_all/yolo/025418_springwest005.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (315).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000065.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (737).txt
+../dataset/masks_sunplusit_outsource_all/yolo/gjgjgj.txt
+../dataset/masks_sunplusit_outsource_all/yolo/dgjdjj.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (748).txt
+../dataset/masks_sunplusit_outsource_all/yolo/15391513324714o1n0r10n6.txt
+../dataset/masks_sunplusit_outsource_all/yolo/dfggfsd.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (343).txt
+../dataset/masks_sunplusit_outsource_all/yolo/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_4_4_9_24549443-1-eng-GB_bangkok arrivals.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (192).txt
+../dataset/masks_sunplusit_outsource_all/yolo/20200127000706.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (753).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000014.txt
+../dataset/masks_sunplusit_outsource_all/yolo/3JYBEKLY7NGJ3JGZPCA2XTHBRM.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000321.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000685.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (504).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (374).txt
+../dataset/masks_sunplusit_outsource_all/yolo/001_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (229).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (487).txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (195).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000089.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000071.txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000250.txt
+../dataset/masks_sunplusit_outsource_all/yolo/iStock-998848022_1024.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (9).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000779.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (306).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000228.txt
+../dataset/masks_sunplusit_outsource_all/yolo/sunplusit (83).txt
+../dataset/masks_sunplusit_outsource_all/yolo/00000732.txt

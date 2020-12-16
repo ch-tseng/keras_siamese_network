@@ -1,0 +1,5 @@
+classes= 3
+train  = /mydrive/space_Colab/sale_vehicles_coco_voc/yolov3_config/train_colab.txt
+valid  = /mydrive/space_Colab/sale_vehicles_coco_voc/yolov3_config/test_colab.txt
+names = /mydrive/space_Colab/sale_vehicles_coco_voc/yolov3_config/obj.names
+backup = /mydrive/space_Colab/sale_vehicles_coco_voc/yolov3_config/weights/
